@@ -1,1 +1,2 @@
-<span style="color:red"><a href="/AED - Algoritmos e Estruturas de Dados\18-08\ex04\Program.cs">Char em String</a></span>
+# SUMÁRIO
+<span style="color:red">Exercício para Encontrar quantas vezes um determinado char aparece em uma string: <a href="/AED - Algoritmos e Estruturas de Dados\18-08\ex04\Program.cs">Char em String</a></span>
