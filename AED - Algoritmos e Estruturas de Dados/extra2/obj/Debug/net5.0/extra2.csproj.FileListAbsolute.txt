@@ -1,0 +1,16 @@
+D:\GitHub Desktop\Puc\AED - Algoritmos e Estruturas de Dados\extra2\obj\Debug\net5.0\extra2.csproj.AssemblyReference.cache
+D:\GitHub Desktop\Puc\AED - Algoritmos e Estruturas de Dados\extra2\obj\Debug\net5.0\extra2.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub Desktop\Puc\AED - Algoritmos e Estruturas de Dados\extra2\obj\Debug\net5.0\extra2.AssemblyInfoInputs.cache
+D:\GitHub Desktop\Puc\AED - Algoritmos e Estruturas de Dados\extra2\obj\Debug\net5.0\extra2.AssemblyInfo.cs
+D:\GitHub Desktop\Puc\AED - Algoritmos e Estruturas de Dados\extra2\obj\Debug\net5.0\extra2.csproj.CoreCompileInputs.cache
+D:\GitHub Desktop\Puc\AED - Algoritmos e Estruturas de Dados\extra2\bin\Debug\net5.0\extra2.exe
+D:\GitHub Desktop\Puc\AED - Algoritmos e Estruturas de Dados\extra2\bin\Debug\net5.0\extra2.deps.json
+D:\GitHub Desktop\Puc\AED - Algoritmos e Estruturas de Dados\extra2\bin\Debug\net5.0\extra2.runtimeconfig.json
+D:\GitHub Desktop\Puc\AED - Algoritmos e Estruturas de Dados\extra2\bin\Debug\net5.0\extra2.runtimeconfig.dev.json
+D:\GitHub Desktop\Puc\AED - Algoritmos e Estruturas de Dados\extra2\bin\Debug\net5.0\extra2.dll
+D:\GitHub Desktop\Puc\AED - Algoritmos e Estruturas de Dados\extra2\bin\Debug\net5.0\ref\extra2.dll
+D:\GitHub Desktop\Puc\AED - Algoritmos e Estruturas de Dados\extra2\bin\Debug\net5.0\extra2.pdb
+D:\GitHub Desktop\Puc\AED - Algoritmos e Estruturas de Dados\extra2\obj\Debug\net5.0\extra2.dll
+D:\GitHub Desktop\Puc\AED - Algoritmos e Estruturas de Dados\extra2\obj\Debug\net5.0\ref\extra2.dll
+D:\GitHub Desktop\Puc\AED - Algoritmos e Estruturas de Dados\extra2\obj\Debug\net5.0\extra2.pdb
+D:\GitHub Desktop\Puc\AED - Algoritmos e Estruturas de Dados\extra2\obj\Debug\net5.0\extra2.genruntimeconfig.cache

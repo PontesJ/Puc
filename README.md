@@ -56,14 +56,14 @@
 
 - <p>Um número inteiro elevado a outro: <a href="/AED - Algoritmos e Estruturas de Dados\10-08\ex06\Program.cs">X^Y.</a></p>
 
-### Derivadas
+### Recursividade
 
-- <p>Fatorial em Derivada: <a href="/AED - Algoritmos e Estruturas de Dados\18-08\ex01\Program.cs">Fatorial.</a></p>
+- <p>Fatorial com Recursividade: <a href="/AED - Algoritmos e Estruturas de Dados\18-08\ex01\Program.cs">Fatorial.</a></p>
 
-- <p>Multiplicação em Derivada: <a href="/AED - Algoritmos e Estruturas de Dados\18-08\ex02\Program.cs">Multiplicação.</a></p>
+- <p>Multiplicação com Recursividade: <a href="/AED - Algoritmos e Estruturas de Dados\18-08\ex02\Program.cs">Multiplicação.</a></p>
 
-- <p>Potencial em Derivada: <a href="/AED - Algoritmos e Estruturas de Dados\18-08\ex03\Program.cs">Potencial.</a></p>
+- <p>Potencial com Recursividade: <a href="/AED - Algoritmos e Estruturas de Dados\18-08\ex03\Program.cs">Potencial.</a></p>
 
-- <p>Exercício para encontrar quantas vezes um determinado char aparece em uma string em Derivada: <a href="/AED - Algoritmos e Estruturas de Dados\18-08\ex04\Program.cs">Char em String.</a></p>
+- <p>Exercício para encontrar quantas vezes um determinado char aparece em uma string com Recursividade: <a href="/AED - Algoritmos e Estruturas de Dados\18-08\ex04\Program.cs">Char em String.</a></p>
 
 Template: <p><a href=""></a></p>

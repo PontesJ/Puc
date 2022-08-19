@@ -6,8 +6,8 @@ namespace ex04
     {
         static int letras (string frase, char letra){
             if (frase == "") return 0;
-            else if (frase[0] == letra) return letras (frase.Substring (1), letra) + 1;
-            else return letras (frase.Substring (1), letra); 
+            if (frase[0] == letra) return letras (frase.Substring (1), letra) + 1;
+            return letras (frase.Substring (1), letra); 
         }
         static void Main(string[] args)
         {
