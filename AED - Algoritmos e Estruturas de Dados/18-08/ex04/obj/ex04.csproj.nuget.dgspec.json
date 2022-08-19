@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\joaog\\Documents\\Puc\\2° Semestre\\AED - Algoritmos e Estruturas de Dados\\Lab\\18-08\\ex04\\ex04.csproj": {}
+    "D:\\GitHub Desktop\\Puc\\AED - Algoritmos e Estruturas de Dados\\18-08\\ex04\\ex04.csproj": {}
   },
   "projects": {
-    "C:\\Users\\joaog\\Documents\\Puc\\2° Semestre\\AED - Algoritmos e Estruturas de Dados\\Lab\\18-08\\ex04\\ex04.csproj": {
+    "D:\\GitHub Desktop\\Puc\\AED - Algoritmos e Estruturas de Dados\\18-08\\ex04\\ex04.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\joaog\\Documents\\Puc\\2° Semestre\\AED - Algoritmos e Estruturas de Dados\\Lab\\18-08\\ex04\\ex04.csproj",
+        "projectUniqueName": "D:\\GitHub Desktop\\Puc\\AED - Algoritmos e Estruturas de Dados\\18-08\\ex04\\ex04.csproj",
         "projectName": "ex04",
-        "projectPath": "C:\\Users\\joaog\\Documents\\Puc\\2° Semestre\\AED - Algoritmos e Estruturas de Dados\\Lab\\18-08\\ex04\\ex04.csproj",
+        "projectPath": "D:\\GitHub Desktop\\Puc\\AED - Algoritmos e Estruturas de Dados\\18-08\\ex04\\ex04.csproj",
         "packagesPath": "C:\\Users\\joaog\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\joaog\\Documents\\Puc\\2° Semestre\\AED - Algoritmos e Estruturas de Dados\\Lab\\18-08\\ex04\\obj\\",
+        "outputPath": "D:\\GitHub Desktop\\Puc\\AED - Algoritmos e Estruturas de Dados\\18-08\\ex04\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\joaog\\AppData\\Roaming\\NuGet\\NuGet.Config"
