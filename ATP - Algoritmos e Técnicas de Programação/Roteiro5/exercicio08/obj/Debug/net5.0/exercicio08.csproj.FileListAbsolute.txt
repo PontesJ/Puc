@@ -1,0 +1,16 @@
+C:\Users\joaog\Documents\Puc\Lab\Roteiro5\exercicio08\bin\Debug\net5.0\exercicio08.exe
+C:\Users\joaog\Documents\Puc\Lab\Roteiro5\exercicio08\bin\Debug\net5.0\exercicio08.deps.json
+C:\Users\joaog\Documents\Puc\Lab\Roteiro5\exercicio08\bin\Debug\net5.0\exercicio08.runtimeconfig.json
+C:\Users\joaog\Documents\Puc\Lab\Roteiro5\exercicio08\bin\Debug\net5.0\exercicio08.runtimeconfig.dev.json
+C:\Users\joaog\Documents\Puc\Lab\Roteiro5\exercicio08\bin\Debug\net5.0\exercicio08.dll
+C:\Users\joaog\Documents\Puc\Lab\Roteiro5\exercicio08\bin\Debug\net5.0\ref\exercicio08.dll
+C:\Users\joaog\Documents\Puc\Lab\Roteiro5\exercicio08\bin\Debug\net5.0\exercicio08.pdb
+C:\Users\joaog\Documents\Puc\Lab\Roteiro5\exercicio08\obj\Debug\net5.0\exercicio08.csproj.AssemblyReference.cache
+C:\Users\joaog\Documents\Puc\Lab\Roteiro5\exercicio08\obj\Debug\net5.0\exercicio08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaog\Documents\Puc\Lab\Roteiro5\exercicio08\obj\Debug\net5.0\exercicio08.AssemblyInfoInputs.cache
+C:\Users\joaog\Documents\Puc\Lab\Roteiro5\exercicio08\obj\Debug\net5.0\exercicio08.AssemblyInfo.cs
+C:\Users\joaog\Documents\Puc\Lab\Roteiro5\exercicio08\obj\Debug\net5.0\exercicio08.csproj.CoreCompileInputs.cache
+C:\Users\joaog\Documents\Puc\Lab\Roteiro5\exercicio08\obj\Debug\net5.0\exercicio08.dll
+C:\Users\joaog\Documents\Puc\Lab\Roteiro5\exercicio08\obj\Debug\net5.0\ref\exercicio08.dll
+C:\Users\joaog\Documents\Puc\Lab\Roteiro5\exercicio08\obj\Debug\net5.0\exercicio08.pdb
+C:\Users\joaog\Documents\Puc\Lab\Roteiro5\exercicio08\obj\Debug\net5.0\exercicio08.genruntimeconfig.cache

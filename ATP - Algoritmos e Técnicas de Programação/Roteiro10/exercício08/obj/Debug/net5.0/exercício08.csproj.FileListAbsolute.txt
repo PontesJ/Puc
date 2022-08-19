@@ -1,0 +1,16 @@
+C:\Users\joaog\Documents\Puc\Lab\Roteiro10\exercício08\bin\Debug\net5.0\exercício08.exe
+C:\Users\joaog\Documents\Puc\Lab\Roteiro10\exercício08\bin\Debug\net5.0\exercício08.deps.json
+C:\Users\joaog\Documents\Puc\Lab\Roteiro10\exercício08\bin\Debug\net5.0\exercício08.runtimeconfig.json
+C:\Users\joaog\Documents\Puc\Lab\Roteiro10\exercício08\bin\Debug\net5.0\exercício08.runtimeconfig.dev.json
+C:\Users\joaog\Documents\Puc\Lab\Roteiro10\exercício08\bin\Debug\net5.0\exercício08.dll
+C:\Users\joaog\Documents\Puc\Lab\Roteiro10\exercício08\bin\Debug\net5.0\ref\exercício08.dll
+C:\Users\joaog\Documents\Puc\Lab\Roteiro10\exercício08\bin\Debug\net5.0\exercício08.pdb
+C:\Users\joaog\Documents\Puc\Lab\Roteiro10\exercício08\obj\Debug\net5.0\exercício08.csproj.AssemblyReference.cache
+C:\Users\joaog\Documents\Puc\Lab\Roteiro10\exercício08\obj\Debug\net5.0\exercício08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaog\Documents\Puc\Lab\Roteiro10\exercício08\obj\Debug\net5.0\exercício08.AssemblyInfoInputs.cache
+C:\Users\joaog\Documents\Puc\Lab\Roteiro10\exercício08\obj\Debug\net5.0\exercício08.AssemblyInfo.cs
+C:\Users\joaog\Documents\Puc\Lab\Roteiro10\exercício08\obj\Debug\net5.0\exercício08.csproj.CoreCompileInputs.cache
+C:\Users\joaog\Documents\Puc\Lab\Roteiro10\exercício08\obj\Debug\net5.0\exercício08.dll
+C:\Users\joaog\Documents\Puc\Lab\Roteiro10\exercício08\obj\Debug\net5.0\ref\exercício08.dll
+C:\Users\joaog\Documents\Puc\Lab\Roteiro10\exercício08\obj\Debug\net5.0\exercício08.pdb
+C:\Users\joaog\Documents\Puc\Lab\Roteiro10\exercício08\obj\Debug\net5.0\exercício08.genruntimeconfig.cache

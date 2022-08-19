@@ -1,0 +1,16 @@
+C:\Users\joaog\Documents\Puc\2° Semestre\AED - Algoritmos e Estruturas de Dados\Lab\10-08\ex03\obj\Debug\net5.0\ex03.csproj.AssemblyReference.cache
+C:\Users\joaog\Documents\Puc\2° Semestre\AED - Algoritmos e Estruturas de Dados\Lab\10-08\ex03\obj\Debug\net5.0\ex03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaog\Documents\Puc\2° Semestre\AED - Algoritmos e Estruturas de Dados\Lab\10-08\ex03\obj\Debug\net5.0\ex03.AssemblyInfoInputs.cache
+C:\Users\joaog\Documents\Puc\2° Semestre\AED - Algoritmos e Estruturas de Dados\Lab\10-08\ex03\obj\Debug\net5.0\ex03.AssemblyInfo.cs
+C:\Users\joaog\Documents\Puc\2° Semestre\AED - Algoritmos e Estruturas de Dados\Lab\10-08\ex03\obj\Debug\net5.0\ex03.csproj.CoreCompileInputs.cache
+C:\Users\joaog\Documents\Puc\2° Semestre\AED - Algoritmos e Estruturas de Dados\Lab\10-08\ex03\bin\Debug\net5.0\ex03.exe
+C:\Users\joaog\Documents\Puc\2° Semestre\AED - Algoritmos e Estruturas de Dados\Lab\10-08\ex03\bin\Debug\net5.0\ex03.deps.json
+C:\Users\joaog\Documents\Puc\2° Semestre\AED - Algoritmos e Estruturas de Dados\Lab\10-08\ex03\bin\Debug\net5.0\ex03.runtimeconfig.json
+C:\Users\joaog\Documents\Puc\2° Semestre\AED - Algoritmos e Estruturas de Dados\Lab\10-08\ex03\bin\Debug\net5.0\ex03.runtimeconfig.dev.json
+C:\Users\joaog\Documents\Puc\2° Semestre\AED - Algoritmos e Estruturas de Dados\Lab\10-08\ex03\bin\Debug\net5.0\ex03.dll
+C:\Users\joaog\Documents\Puc\2° Semestre\AED - Algoritmos e Estruturas de Dados\Lab\10-08\ex03\bin\Debug\net5.0\ref\ex03.dll
+C:\Users\joaog\Documents\Puc\2° Semestre\AED - Algoritmos e Estruturas de Dados\Lab\10-08\ex03\bin\Debug\net5.0\ex03.pdb
+C:\Users\joaog\Documents\Puc\2° Semestre\AED - Algoritmos e Estruturas de Dados\Lab\10-08\ex03\obj\Debug\net5.0\ex03.dll
+C:\Users\joaog\Documents\Puc\2° Semestre\AED - Algoritmos e Estruturas de Dados\Lab\10-08\ex03\obj\Debug\net5.0\ref\ex03.dll
+C:\Users\joaog\Documents\Puc\2° Semestre\AED - Algoritmos e Estruturas de Dados\Lab\10-08\ex03\obj\Debug\net5.0\ex03.pdb
+C:\Users\joaog\Documents\Puc\2° Semestre\AED - Algoritmos e Estruturas de Dados\Lab\10-08\ex03\obj\Debug\net5.0\ex03.genruntimeconfig.cache
