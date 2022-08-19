@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\joaog\\Documents\\Puc\\2° Semestre\\AED - Algoritmos e Estruturas de Dados\\Lab\\10-08\\ex01\\ex01.csproj",
+      "projectUniqueName": "D:\\GitHub Desktop\\Puc\\AED - Algoritmos e Estruturas de Dados\\10-08\\ex01\\ex01.csproj",
       "projectName": "ex01",
-      "projectPath": "C:\\Users\\joaog\\Documents\\Puc\\2° Semestre\\AED - Algoritmos e Estruturas de Dados\\Lab\\10-08\\ex01\\ex01.csproj",
+      "projectPath": "D:\\GitHub Desktop\\Puc\\AED - Algoritmos e Estruturas de Dados\\10-08\\ex01\\ex01.csproj",
       "packagesPath": "C:\\Users\\joaog\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\joaog\\Documents\\Puc\\2° Semestre\\AED - Algoritmos e Estruturas de Dados\\Lab\\10-08\\ex01\\obj\\",
+      "outputPath": "D:\\GitHub Desktop\\Puc\\AED - Algoritmos e Estruturas de Dados\\10-08\\ex01\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\joaog\\AppData\\Roaming\\NuGet\\NuGet.Config"
