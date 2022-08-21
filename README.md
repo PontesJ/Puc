@@ -66,4 +66,8 @@
 
 - <p>Exercício para encontrar quantas vezes um determinado char aparece em uma string com Recursividade: <a href="/AED - Algoritmos e Estruturas de Dados\18-08\ex04\Program.cs">Char em String.</a></p>
 
+- <p>Soma de números pares de um vetor: <a href="/AED - Algoritmos e Estruturas de Dados\18-08\ex05\Program.cs">Soma par.</a></p>
+
+- <p>Função recursiva para retirar vogais de uma frase e função de inverter frase: <a href="/AED - Algoritmos e Estruturas de Dados\18-08\ex06\Program.cs">Tirar vogal.</a></p>
+
 Template: <p><a href=""></a></p>
