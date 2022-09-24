@@ -14,3 +14,19 @@ C:\Users\joaog\Documents\Puc\Lab\Roteiro11\exercicio06\obj\Debug\net5.0\exercici
 C:\Users\joaog\Documents\Puc\Lab\Roteiro11\exercicio06\obj\Debug\net5.0\ref\exercicio06.dll
 C:\Users\joaog\Documents\Puc\Lab\Roteiro11\exercicio06\obj\Debug\net5.0\exercicio06.pdb
 C:\Users\joaog\Documents\Puc\Lab\Roteiro11\exercicio06\obj\Debug\net5.0\exercicio06.genruntimeconfig.cache
+D:\GitHub Desktop\Puc\ATP - Algoritmos e Técnicas de Programação\Roteiro11\exercicio06\bin\Debug\net5.0\exercicio06.exe
+D:\GitHub Desktop\Puc\ATP - Algoritmos e Técnicas de Programação\Roteiro11\exercicio06\bin\Debug\net5.0\exercicio06.deps.json
+D:\GitHub Desktop\Puc\ATP - Algoritmos e Técnicas de Programação\Roteiro11\exercicio06\bin\Debug\net5.0\exercicio06.runtimeconfig.json
+D:\GitHub Desktop\Puc\ATP - Algoritmos e Técnicas de Programação\Roteiro11\exercicio06\bin\Debug\net5.0\exercicio06.runtimeconfig.dev.json
+D:\GitHub Desktop\Puc\ATP - Algoritmos e Técnicas de Programação\Roteiro11\exercicio06\bin\Debug\net5.0\exercicio06.dll
+D:\GitHub Desktop\Puc\ATP - Algoritmos e Técnicas de Programação\Roteiro11\exercicio06\bin\Debug\net5.0\exercicio06.pdb
+D:\GitHub Desktop\Puc\ATP - Algoritmos e Técnicas de Programação\Roteiro11\exercicio06\obj\Debug\net5.0\exercicio06.csproj.AssemblyReference.cache
+D:\GitHub Desktop\Puc\ATP - Algoritmos e Técnicas de Programação\Roteiro11\exercicio06\obj\Debug\net5.0\exercicio06.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub Desktop\Puc\ATP - Algoritmos e Técnicas de Programação\Roteiro11\exercicio06\obj\Debug\net5.0\exercicio06.AssemblyInfoInputs.cache
+D:\GitHub Desktop\Puc\ATP - Algoritmos e Técnicas de Programação\Roteiro11\exercicio06\obj\Debug\net5.0\exercicio06.AssemblyInfo.cs
+D:\GitHub Desktop\Puc\ATP - Algoritmos e Técnicas de Programação\Roteiro11\exercicio06\obj\Debug\net5.0\exercicio06.csproj.CoreCompileInputs.cache
+D:\GitHub Desktop\Puc\ATP - Algoritmos e Técnicas de Programação\Roteiro11\exercicio06\obj\Debug\net5.0\exercicio06.dll
+D:\GitHub Desktop\Puc\ATP - Algoritmos e Técnicas de Programação\Roteiro11\exercicio06\obj\Debug\net5.0\refint\exercicio06.dll
+D:\GitHub Desktop\Puc\ATP - Algoritmos e Técnicas de Programação\Roteiro11\exercicio06\obj\Debug\net5.0\exercicio06.pdb
+D:\GitHub Desktop\Puc\ATP - Algoritmos e Técnicas de Programação\Roteiro11\exercicio06\obj\Debug\net5.0\exercicio06.genruntimeconfig.cache
+D:\GitHub Desktop\Puc\ATP - Algoritmos e Técnicas de Programação\Roteiro11\exercicio06\obj\Debug\net5.0\ref\exercicio06.dll

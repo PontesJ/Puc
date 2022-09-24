@@ -11,7 +11,7 @@ namespace exercicio06
             string linha, texto = "";
             char letra;
             int []letras = new int [TAM]; 
-            StreamReader ler = new StreamReader("C:\\Users\\joaog\\Documents\\Puc\\Lab\\Roteiro11\\textos\\texto.txt");
+            StreamReader ler = new StreamReader("../textos/texto.txt");
             linha = ler.ReadLine();
             while (linha != null) {
                 texto += linha;

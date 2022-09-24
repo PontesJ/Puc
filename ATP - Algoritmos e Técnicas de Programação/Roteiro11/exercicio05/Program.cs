@@ -15,7 +15,7 @@ namespace exercicio05
         }
         static void lerArquivo () {
             string linha;
-            StreamReader ler = new StreamReader("C:\\Users\\joaog\\Documents\\Puc\\Lab\\Roteiro11\\textos\\mat.txt");
+            StreamReader ler = new StreamReader("../textos/mat.txt");
             linha = ler.ReadLine();
             while (linha != null) {
                 Console.WriteLine(linha);
@@ -27,7 +27,7 @@ namespace exercicio05
             lerArquivo();
             int [,] Matriz = new int [3,3];
             LerMatriz(Matriz);
-            StreamWriter escrever = new StreamWriter("C:\\Users\\joaog\\Documents\\Puc\\Lab\\Roteiro11\\textos\\mat.txt");
+            StreamWriter escrever = new StreamWriter("../textos/mat.txt");
             for (int i = 0; i < Matriz.GetLength(0); i++) {
                 for (int j = 0; j < Matriz.GetLength(1); j++) {
                     escrever.Write(Matriz[i,j] + " ");
