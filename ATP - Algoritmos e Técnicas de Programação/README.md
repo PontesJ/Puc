@@ -302,14 +302,19 @@ Faça programas que implementem os seguintes somatórios:
 $$
 G = 1 + \frac{3}{2} + \frac{5}{3} + \frac{7}{4} + ... + \frac{99}{50}
 $$
+
 **<a href="./Roteiro7/exercicio06a/Program.cs">Resolução</a>**
+
 $$
 J = \frac{21}{250} + \frac{22}{249} + \frac{23}{248} + ... + \frac{250}{21}
 $$
+
 **<a href="./Roteiro7/exercicio06b/Program.cs">Resolução</a>**
+
 $$
 L = 1 - \frac{2}{4} + \frac{1}{3} - \frac{4}{16} + ... + \frac{N}{N^2} 
 $$ (Obs: N deverá ser lido)
+
 **<a href="./Roteiro7/exercicio06c/Program.cs">Resolução</a>**
 
 # Roteiro 08
