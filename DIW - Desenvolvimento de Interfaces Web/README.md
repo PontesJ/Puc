@@ -10,7 +10,7 @@ Dentre as funcionalidades providas pela **API The Movie DB**, destacamos os segu
 
 - <a href="https://developers.themoviedb.org/3/movies/get-popular-movies">Filmes populares</a> - fornece uma lista atualizada dos filmes mais procurados;
 - <a href="https://developers.themoviedb.org/3/movies/get-latest-movie">Últimos filmes</a> - fornece uma lista dos filmes mais recentes;
-- </a href="https://developers.themoviedb.org/3/movies/get-now-playing">Filmes no Cinema</a> - fornece uma lista de filmes em cartaz nos cinemas.
+- <a href="https://developers.themoviedb.org/3/movies/get-now-playing">Filmes no Cinema</a> - fornece uma lista de filmes em cartaz nos cinemas.
 
 ## Requisitos do Projeto
 
@@ -28,5 +28,4 @@ Na página de pesquisa, devem ser obedecidos os seguintes requisitos:
     - o resultado deve mostrar uma lista de itens tal qual a home-page com imagem e textos que descrevam o item retornado;
     - os itens do resultado devem ter um link que ao ser acionado, leve o usuário para a página original do referido item, cujo link é obtido por meio da API do The Movie DB.
 
-<div align=center>
 # <a href="https://cinefilmes.netlify.app">Site</a>
