@@ -7,7 +7,9 @@ Alguns números de quatro algarismos possuem uma característica particular. Se 
 Número = 3025 
 
 Separando o número em dois grupos de dois algarismos temos o 30 e o 25.
+
 A soma de 30 com 25 é igual a 55
+
 O Quadrado de 55 é igual a 3025.
  
 Faça um programa que mostre os números de 1000 a 9999 que possuem essa característica.
