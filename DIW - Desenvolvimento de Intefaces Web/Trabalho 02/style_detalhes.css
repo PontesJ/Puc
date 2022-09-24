@@ -1,0 +1,36 @@
+body {
+    background-color: #31363c;
+    color: white;
+    margin: 0px 10px 10px 10px;
+}
+
+.pesquisa {
+    background-color: #31363c;
+    border: #31363c;
+    color: white;
+}
+
+.pesquisa:focus {
+    background-color: #212529;
+    color: white;
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 8px rgba(255, 255, 255, 0.6);
+}
+
+h1 {
+    text-align: center;
+    padding: 10px;
+    padding-top: 30px;
+}
+
+.card {
+    margin: 20px;
+    align-items: center;
+}
+
+.row {
+    justify-content: center;
+    --bs-gutter-x: 0rem;
+}
+a {
+    color: white;
+}
