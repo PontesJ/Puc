@@ -299,6 +299,7 @@ Crie uma tabela de conversão de centímetros para polegadas, começando de 0cm 
 
 Crie uma tabela de conversão de centímetros para polegadas, começando de 0cm e terminando em 100cm, com variação de 2 em 2. (cada 2,5 cm equivalem a uma polegada)
 Faça programas que implementem os seguintes somatórios:
+
 $$
 G = 1 + \frac{3}{2} + \frac{5}{3} + \frac{7}{4} + ... + \frac{99}{50}
 $$
@@ -313,8 +314,9 @@ $$
 
 $$
 L = 1 - \frac{2}{4} + \frac{1}{3} - \frac{4}{16} + ... + \frac{N}{N^2} 
-$$ (Obs: N deverá ser lido)
+$$
 
+(Obs: N deverá ser lido)
 **<a href="./Roteiro7/exercicio06c/Program.cs">Resolução</a>**
 
 # Roteiro 08
