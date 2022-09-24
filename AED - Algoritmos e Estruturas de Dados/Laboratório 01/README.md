@@ -6,8 +6,10 @@ Alguns números de quatro algarismos possuem uma característica particular. Se 
 
 Número = 3025 
 
-Separando o número em dois grupos de dois algarismos temos o 30 e o 25 . 
+Separando o número em dois grupos de dois algarismos temos o 30 e o 25.
+
 A soma de 30 com 25 é igual a 55
+
 O Quadrado de 55 é igual a 3025.
  
 Faça um programa que mostre os números de 1000 a 9999 que possuem essa característica.
@@ -31,6 +33,7 @@ Faça um programa que liste os números perfeitos de 1 a 1000.
 Faça um programa que receba os elementos de dois vetores, A e B, cada um com 5 posições. Considere que nenhum dos vetores possui elementos repetidos.
 
 Crie um vetor resultante C que possua os elementos comuns entre A e B.
+
 Crie um vetor resultante D que contenha os elementos de A que não existam em B.
 
 **<a href="./Exercício 03/Program.cs">Resolução</a>**
@@ -51,7 +54,8 @@ Faça um programa que chame uma função capaz de calcular o Fatorial de um núm
 
 ## Exercício 06
 
-Faça um programa que chame uma função capaz de calcular 𝑥^𝑦 , sendo 𝑥 e 𝑦 inteiros. 
+Faça um programa que chame uma função capaz de calcular 𝑥^𝑦 , sendo 𝑥 e 𝑦 inteiros.
+
 Utilize passagem de parâmetros por referência. 
 
 **<a href="./Exercício 06/Program.cs">Resolução</a>**
