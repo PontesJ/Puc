@@ -54,7 +54,7 @@ Faça um programa que chame uma função capaz de calcular o Fatorial de um núm
 
 ## Exercício 06
 
-Faça um programa que chame uma função capaz de calcular 𝑥^𝑦 , sendo 𝑥 e 𝑦 inteiros.
+Faça um programa que chame uma função capaz de calcular 𝑥<sup>𝑦</sup> , sendo 𝑥 e 𝑦 inteiros.
 
 Utilize passagem de parâmetros por referência. 
 
