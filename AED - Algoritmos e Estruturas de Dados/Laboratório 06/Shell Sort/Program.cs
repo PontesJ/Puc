@@ -14,13 +14,13 @@ namespace Shell_Sort
         }
         static void shellSort(int[] vetor)
         {
-            for (int gap = vetor.Length / 2; gap > 0; gap /= 2)
+            for (int h = vetor.Length / 2; h > 0; h /= 2)
             {
-                for (int i = gap; i < vetor.Length; i += 1)
+                for (int i = h; i < vetor.Length; i++)
                 {
                     int aux = vetor[i];
                     int j;
-                    for (j = i; j >= gap && vetor[j - gap] > aux; j -= gap) vetor[j] = vetor[j - gap];
+                    for (j = i; j >= h && vetor[j - h] > aux; j -= h) vetor[j] = vetor[j - h];
                     vetor[j] = aux;
                 }
             }
