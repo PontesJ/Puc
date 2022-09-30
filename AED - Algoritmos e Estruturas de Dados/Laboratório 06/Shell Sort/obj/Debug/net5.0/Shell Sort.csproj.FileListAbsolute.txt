@@ -1,0 +1,16 @@
+D:\GitHub Desktop\Puc\AED - Algoritmos e Estruturas de Dados\Laboratório 06\Shell Sort\bin\Debug\net5.0\Shell Sort.exe
+D:\GitHub Desktop\Puc\AED - Algoritmos e Estruturas de Dados\Laboratório 06\Shell Sort\bin\Debug\net5.0\Shell Sort.deps.json
+D:\GitHub Desktop\Puc\AED - Algoritmos e Estruturas de Dados\Laboratório 06\Shell Sort\bin\Debug\net5.0\Shell Sort.runtimeconfig.json
+D:\GitHub Desktop\Puc\AED - Algoritmos e Estruturas de Dados\Laboratório 06\Shell Sort\bin\Debug\net5.0\Shell Sort.runtimeconfig.dev.json
+D:\GitHub Desktop\Puc\AED - Algoritmos e Estruturas de Dados\Laboratório 06\Shell Sort\bin\Debug\net5.0\Shell Sort.dll
+D:\GitHub Desktop\Puc\AED - Algoritmos e Estruturas de Dados\Laboratório 06\Shell Sort\bin\Debug\net5.0\Shell Sort.pdb
+D:\GitHub Desktop\Puc\AED - Algoritmos e Estruturas de Dados\Laboratório 06\Shell Sort\obj\Debug\net5.0\Shell Sort.csproj.AssemblyReference.cache
+D:\GitHub Desktop\Puc\AED - Algoritmos e Estruturas de Dados\Laboratório 06\Shell Sort\obj\Debug\net5.0\Shell Sort.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub Desktop\Puc\AED - Algoritmos e Estruturas de Dados\Laboratório 06\Shell Sort\obj\Debug\net5.0\Shell Sort.AssemblyInfoInputs.cache
+D:\GitHub Desktop\Puc\AED - Algoritmos e Estruturas de Dados\Laboratório 06\Shell Sort\obj\Debug\net5.0\Shell Sort.AssemblyInfo.cs
+D:\GitHub Desktop\Puc\AED - Algoritmos e Estruturas de Dados\Laboratório 06\Shell Sort\obj\Debug\net5.0\Shell Sort.csproj.CoreCompileInputs.cache
+D:\GitHub Desktop\Puc\AED - Algoritmos e Estruturas de Dados\Laboratório 06\Shell Sort\obj\Debug\net5.0\Shell Sort.dll
+D:\GitHub Desktop\Puc\AED - Algoritmos e Estruturas de Dados\Laboratório 06\Shell Sort\obj\Debug\net5.0\refint\Shell Sort.dll
+D:\GitHub Desktop\Puc\AED - Algoritmos e Estruturas de Dados\Laboratório 06\Shell Sort\obj\Debug\net5.0\Shell Sort.pdb
+D:\GitHub Desktop\Puc\AED - Algoritmos e Estruturas de Dados\Laboratório 06\Shell Sort\obj\Debug\net5.0\Shell Sort.genruntimeconfig.cache
+D:\GitHub Desktop\Puc\AED - Algoritmos e Estruturas de Dados\Laboratório 06\Shell Sort\obj\Debug\net5.0\ref\Shell Sort.dll
