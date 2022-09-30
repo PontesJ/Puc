@@ -53,8 +53,8 @@ Obs: Para calcular o raio ao quadrado ou ao cubo você pode usar a função pow(
 Faça um programa que receba a medida de dois ângulos de um triângulo, calcule e mostre a medida do terceiro ângulo. Sabe-se que a soma dos ângulos de um triângulo é 180.
 
 **<a href="./Roteiro2/exercicio8/Program.cs">Resolução</a>**
-<br>
 
+---
 # <a href="./Roteiro3">Roteiro 03</a>
 
 ## Exercício 01
@@ -116,8 +116,8 @@ Os valores de horas trabalhadas e salário hora deverão ser recebidos através 
 Sabe-se ainda que o salário líquido é igual ao salário bruto subtraído do desconto.
 
 **<a href="./Roteiro3/exercicio9/Program.cs">Resolução</a>**
-<br>
 
+---
 # <a href="./Roteiro4">Roteiro 04</a>
 
 ## Exercício 01
@@ -151,8 +151,8 @@ No ocidente estamos acostumados com o nosso formato de datas composto de dias, m
 <ul>c. 19 / 09 / 2009 => 262.2009 ( os dias de jan a agosto + 19)</ul>
 
 **<a href="./Roteiro4/exercicio03/Program.cs">Resolução</a>**
-<br>
 
+---
 # <a href="./Roteiro5">Roteiro 05</a>
 
 ## Exercício 01
@@ -208,8 +208,8 @@ Escreva um programa que leia vários números, menores que 13, enquanto a soma d
 Fazer um algoritmo que calcula o *N*-ésimo termo da seqüência de Fibonacci, onde um termo é calculado pela soma dos anteriores (1, 1, 2, 3, 5, 8, 13, 21, ...) utilizando o comando *while* e o *do-while*
 
 **<a href="./Roteiro5/exercicio09/Program.cs">Resolução</a>**
-<br>
 
+---
 # <a href="./Roteiro6">Roteiro 06</a>
 
 ## Exercício 01
@@ -260,8 +260,8 @@ Acrescente comandos no exercício 2 que permita que o programa seja executado v�
 Foi feita uma pesquisa em um número indeterminado de postos dos preços da gasolina, do álcool e do diesel. Ler para cada posto, os valores de cada combustível, calcular e imprimir o maior e o menor valor encontrado para cada tipo de combustível dentre os postos pesquisados. Os dados terminam quando for digitado um valor de preço de gasolina igual a Zero. Colocar no final a opção para repetir tudo de novo.
 
 **<a href="./Roteiro6/exercicio05/Program.cs">Resolução</a>**
-<br>
 
+---
 # <a href="./Roteiro7">Roteiro 07</a>
 
 Resolva os exercícios abaixo usando o comando for()
@@ -323,8 +323,8 @@ $$
 
 (Obs: N deverá ser lido)
 **<a href="./Roteiro7/exercicio06c/Program.cs">Resolução</a>**
-<br>
 
+---
 # <a href="./Roteiro8">Roteiro 08</a>
 
 ## Exercício 01
@@ -385,8 +385,8 @@ Para testar essa função utilize a função do exercício anterior para calcula
 - Etc ....
 
 **<a href="./Roteiro8/exercicio06/Program.cs">Resolução</a>**
-<br>
 
+---
 # <a href="./Roteiro9">Roteiro 09</a>
 
 ```
@@ -436,8 +436,8 @@ Faça um programa que defina um vetor de 120 caracteres, incluindo brancos e:
 ● Dada uma letra qualquer fornecida pelo teclado, imprimir a primeira vez que ela aparece na frase.
 
 **<a href="./Roteiro9/exercício04/Program.cs">Resolução</a>**
-<br>
 
+---
 # <a href="./Roteiro10">Roteiro 10</a>
 
 ## Exercício 01
@@ -501,8 +501,8 @@ Exemplo:
 <ul>1 2 3 4<br>    6 7 8<br>        1 2<br>            6</ul>
 
 **<a href="./Roteiro10/exercício09/Program.cs">Resolução</a>**
-<br>
 
+---
 # <a href="./Roteiro11">Roteiro 11</a>
 
 ## Exercício 01

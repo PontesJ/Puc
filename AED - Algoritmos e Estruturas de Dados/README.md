@@ -60,6 +60,7 @@ Desenvolva um algoritmo que calcule o IMC de uma determinada pessoa, e grave os 
 
 **<a href="./Nivelamento/Exercício 10/Program.cs">Resolução</a>**
 
+---
 # <a href="./Laboratório 01">Laboratório 01</a>
 
 ## Exercício 01
@@ -121,8 +122,8 @@ Faça um programa que chame uma função capaz de calcular 𝑥<sup>𝑦</sup> ,
 Utilize passagem de parâmetros por referência. 
 
 **<a href="./Laboratório 01/Exercício 06/Program.cs">Resolução</a>**
-<br>
 
+---
 # <a href="./Laboratório 02">Laboratório 02</a>
 
 ## Exercício 01
@@ -166,8 +167,8 @@ Escreva um método recursivo que receba uma frase e retorne a mesma frase, sem n
 Escreva um método recursivo que encontre uma determinada posição na sequência de Fibonacci.
 
 **<a href="./Laboratório 02/Exercício Extra/Program.cs">Resolução</a>**
-<br>
 
+---
 # <a href="./Laboratório 03">Laboratório 03</a>
 
 ## Exercício 01
@@ -193,8 +194,8 @@ Escreva um método recursivo que realize a pesquisa binária usando posição.
 Escreva um método recursivo que realize a pesquisa binária sem usar posição.
 
 **<a href="./Laboratório 03/Exercício 04/Program.cs">Resolução</a>**
-<br>
 
+---
 # <a href="./Laboratório 03/Laboratório 06">Laboratório 06</a>
 
 ## Bubble Sort
