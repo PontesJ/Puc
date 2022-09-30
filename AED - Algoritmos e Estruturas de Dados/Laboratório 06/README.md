@@ -35,3 +35,9 @@ Escreva um algoritmo de Selection Sort.
 Escreva um algoritmo de Shell Sort.
 
 **<a href="./Shell Sort/Program.cs">Resolução</a>**
+
+## Contagem
+
+Escreva um algoritmo de Contagem.
+
+**<a href="./Contagem/Program.cs">Resolução</a>**

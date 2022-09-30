@@ -232,3 +232,9 @@ Escreva um algoritmo de Selection Sort.
 Escreva um algoritmo de Shell Sort.
 
 **<a href="./Laboratório 06/Shell Sort/Program.cs">Resolução</a>**
+
+## Contagem
+
+Escreva um algoritmo de Contagem.
+
+**<a href="./Laboratório 06/Contagem/Program.cs">Resolução</a>**
