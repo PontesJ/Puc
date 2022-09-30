@@ -9,16 +9,19 @@ namespace Exercício_04
             int maxmatricula = 0, minmatricula = 0;
             double maxaltura = 0, minaltura = 3.0;
             Console.WriteLine("Exercício 04");
-            for (int i = 0; i < 10; i++) {
+            for (int i = 0; i < 10; i++)
+            {
                 Console.Write("Insira sua altura (m): ");
                 double altura = double.Parse(Console.ReadLine());
                 Console.Write("Insira sua matricula: ");
                 int matricula = int.Parse(Console.ReadLine());
-                if (altura > maxaltura) {
+                if (altura > maxaltura)
+                {
                     maxaltura = altura;
                     maxmatricula = matricula;
                 }
-                if (altura < minaltura) {
+                if (altura < minaltura)
+                {
                     minaltura = altura;
                     minmatricula = matricula;
                 }

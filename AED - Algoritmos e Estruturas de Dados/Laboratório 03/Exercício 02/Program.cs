@@ -48,7 +48,8 @@ namespace Exercício_02
             Console.WriteLine("\n================================");
             Console.WriteLine("Exercício 02");
             int[] vetor = new int[tam];
-            for(int i = 0; i < vetor.Length; i++) {
+            for (int i = 0; i < vetor.Length; i++)
+            {
                 Random rand = new Random();
                 vetor[i] = rand.Next(0, 10);
             }

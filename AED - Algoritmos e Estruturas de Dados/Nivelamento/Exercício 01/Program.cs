@@ -8,7 +8,8 @@ namespace Exercício_01
         {
             int soma = 0;
             Console.WriteLine("Exercício 01");
-            for (int i = 0; i < 5; i++) {
+            for (int i = 0; i < 5; i++)
+            {
                 Console.Write("Informe a idade do {0}° aluno: ", i + 1);
                 soma += int.Parse(Console.ReadLine());
             }

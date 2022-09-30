@@ -25,12 +25,14 @@ namespace Contagem
             {
                 cont[vetor[i] - minval]++;
             }
-            for (int i = 1; i < cont.Length; i++) {
+            for (int i = 1; i < cont.Length; i++)
+            {
                 cont[i] += cont[i - 1];
             }
             int[] aux = new int[vetor.Length];
-            for (int i = vetor.Length - 1; i >= 0; i--) {
-                aux[cont[vetor[i] - minval]-1] = vetor[i];
+            for (int i = vetor.Length - 1; i >= 0; i--)
+            {
+                aux[cont[vetor[i] - minval] - 1] = vetor[i];
                 cont[vetor[i] - minval]--;
             }
             return aux;

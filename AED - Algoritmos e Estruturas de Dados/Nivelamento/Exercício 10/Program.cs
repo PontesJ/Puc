@@ -9,7 +9,8 @@ namespace Exercício_10
             Console.WriteLine("Exercício 10");
             Console.Write("Deseja fazer um novo cadastro? (S/N): ");
             char opcao = (char)Console.Read();
-            if (opcao == 's' || opcao == 'S'){
+            if (opcao == 's' || opcao == 'S')
+            {
                 Console.WriteLine("Novo cadastro");
                 string teste = Console.ReadLine();
                 Console.Write("Digite seu nome: ");
@@ -22,10 +23,13 @@ namespace Exercício_10
                 sw.WriteLine(nome);
                 sw.WriteLine(peso / (altura * altura));
                 sw.Close();
-            } else {
+            }
+            else
+            {
                 StreamReader sr = new StreamReader("../Textos/ex10.txt");
                 string linha = sr.ReadLine();
-                while (linha != null) {
+                while (linha != null)
+                {
                     Console.WriteLine(linha);
                     linha = sr.ReadLine();
                 }

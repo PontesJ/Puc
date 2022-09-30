@@ -23,7 +23,8 @@ namespace Exercício_09
             sw.Close();
             StreamReader sr = new StreamReader("../Textos/ex09.txt");
             string linha = sr.ReadLine();
-            while (linha != null) {
+            while (linha != null)
+            {
                 Console.WriteLine(linha);
                 linha = sr.ReadLine();
             }

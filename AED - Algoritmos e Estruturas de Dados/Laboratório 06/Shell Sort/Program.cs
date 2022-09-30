@@ -1,16 +1,20 @@
 ﻿using System;
 
-namespace Shell_Sort {
+namespace Shell_Sort
+{
     class Program
     {
-        static void criaVetor(int []vetor) {
-            for (int i = 0; i < vetor.Length; i++) {
+        static void criaVetor(int[] vetor)
+        {
+            for (int i = 0; i < vetor.Length; i++)
+            {
                 Random rand = new Random();
-                vetor[i] = rand.Next(0,10);
+                vetor[i] = rand.Next(0, 10);
             }
         }
-        static void shellSort(int []vetor) {
-            for (int gap = vetor.Length/2; gap > 0; gap /= 2)
+        static void shellSort(int[] vetor)
+        {
+            for (int gap = vetor.Length / 2; gap > 0; gap /= 2)
             {
                 for (int i = gap; i < vetor.Length; i += 1)
                 {
@@ -24,7 +28,7 @@ namespace Shell_Sort {
         static void Main(string[] args)
         {
             const int tam = 10;
-            int []vetor = new int[tam];
+            int[] vetor = new int[tam];
             criaVetor(vetor);
             Console.WriteLine("\n================================");
             Console.WriteLine("Shell Sort");

@@ -13,7 +13,8 @@ namespace Exercício_05
             int n1 = int.Parse(Console.ReadLine());
             Console.Write("Insira o segundo número: ");
             int n2 = int.Parse(Console.ReadLine());
-            switch (operacao) {
+            switch (operacao)
+            {
                 case "+":
                     Console.WriteLine("A soma desses valores é {0}", n1 + n2);
                     break;

@@ -4,10 +4,12 @@ namespace Merge_Sort
 {
     class Program
     {
-        static void criaVetor(int []vetor) {
-            for (int i = 0; i < vetor.Length; i++) {
+        static void criaVetor(int[] vetor)
+        {
+            for (int i = 0; i < vetor.Length; i++)
+            {
                 Random rand = new Random();
-                vetor[i] = rand.Next(0,10);
+                vetor[i] = rand.Next(0, 10);
             }
         }
         static void mergeSort(int[] vetor, int inicio, int tam)
@@ -51,14 +53,14 @@ namespace Merge_Sort
         static void Main(string[] args)
         {
             const int tam = 10;
-            int []vetor = new int[tam];
+            int[] vetor = new int[tam];
             criaVetor(vetor);
             Console.WriteLine("\n================================");
             Console.WriteLine("Merge Sort");
             Console.Write("\nO vetor: ");
             for (int i = 0; i < vetor.Length; i++) Console.Write("{0} ", vetor[i]);
             Console.Write("\nOrdenado: ");
-            mergeSort(vetor, 0, vetor.Length-1);
+            mergeSort(vetor, 0, vetor.Length - 1);
             for (int i = 0; i < vetor.Length; i++) Console.Write("{0} ", vetor[i]);
             Console.WriteLine("\n================================\n");
         }

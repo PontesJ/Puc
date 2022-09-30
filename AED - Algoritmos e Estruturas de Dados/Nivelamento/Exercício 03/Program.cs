@@ -8,7 +8,8 @@ namespace Exercício_03
         {
             int soma = 0;
             Console.WriteLine("Exercício 03");
-            for (int i = 0; i < 10; i++) {
+            for (int i = 0; i < 10; i++)
+            {
                 Console.Write("Insira uma idade: ");
                 int idade = int.Parse(Console.ReadLine());
                 if (idade > 18) soma++;

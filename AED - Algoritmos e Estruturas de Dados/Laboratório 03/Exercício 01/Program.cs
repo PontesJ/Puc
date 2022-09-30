@@ -14,7 +14,8 @@ namespace Exercício_01
                 vetor = ordernarVetor(vetor, inicio, metade, tam);
             }
         }
-        static int[] ordernarVetor(int []vetor, int inicio, int metade, int tam){    
+        static int[] ordernarVetor(int[] vetor, int inicio, int metade, int tam)
+        {
             int i, j, k;
             int metade1 = metade - inicio + 1;
             int metade2 = tam - metade;
@@ -41,10 +42,12 @@ namespace Exercício_01
             for (; j < metade2; j++, k++) vetor[k] = vetor2[j];
             return vetor;
         }
-        static void Main(string[] args) {
+        static void Main(string[] args)
+        {
             const int tam = 10;
-            int [] vetor = new int[tam];
-            for(int i = 0; i < vetor.Length; i++) {
+            int[] vetor = new int[tam];
+            for (int i = 0; i < vetor.Length; i++)
+            {
                 Random rand = new Random();
                 vetor[i] = rand.Next(0, 10);
             }
@@ -53,7 +56,7 @@ namespace Exercício_01
             Console.Write("\nO vetor: ");
             for (int i = 0; i < vetor.Length; i++) Console.Write("{0} ", vetor[i]);
             Console.Write("\nOrganizado: ");
-            organizar(vetor, 0, vetor.Length-1);
+            organizar(vetor, 0, vetor.Length - 1);
             for (int i = 0; i < vetor.Length; i++) Console.Write("{0} ", vetor[i]);
             Console.WriteLine("\n================================\n");
         }
