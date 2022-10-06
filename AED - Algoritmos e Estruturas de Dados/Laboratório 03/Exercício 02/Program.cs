@@ -4,60 +4,81 @@ namespace Exercício_02
 {
     class Program
     {
-        static void organizar(int[] vetor, int inicio, int tam)
+        static int[] divisor(int[] vetor)
         {
-            if (inicio < tam)
+            if (vetor.Length == 1)
+                return vetor;
+
+            if (vetor.Length % 2 == 0)
             {
-                int metade = inicio + (tam - inicio) / 2;
-                organizar(vetor, inicio, metade);
-                organizar(vetor, metade + 1, tam);
-                organizador(vetor, inicio, metade, tam);
+                int[] vetor1 = new int[(vetor.Length) / 2];
+                int[] vetor2 = new int[(vetor.Length) / 2];
+                for (int i = 0; i < vetor1.Length; i++) vetor1[i] = vetor[i];
+                for (int i = 0; i < vetor2.Length; i++) vetor2[i] = vetor[i + vetor.Length / 2];
+                vetor1 = divisor(vetor1);
+                vetor2 = divisor(vetor2);
+                vetor = ordenar(vetor1, vetor2);
             }
-        }
-        static void organizador(int[] vetor, int inicio, int metade, int tam)
-        {
-            int i, j, k;
-            int parte1 = metade - inicio + 1;
-            int parte2 = tam - metade;
-            int[] vetor1 = new int[parte1];
-            int[] vetor2 = new int[parte2];
-            for (i = 0; i < parte1; i++) vetor1[i] = vetor[inicio + i];
-            for (j = 0; j < parte2; j++) vetor2[j] = vetor[metade + 1 + j];
-            i = 0;
-            j = 0;
-            k = inicio;
-            for (; i < parte1 && j < parte2; k++)
+            else
             {
-                if (vetor1[i] <= vetor2[j])
+                int[] vetor1 = new int[vetor.Length / 2];
+                int[] vetor2 = new int[(vetor.Length / 2) + 1];
+                for (int i = 0; i < vetor1.Length; i++) vetor1[i] = vetor[i];
+                for (int i = 0; i < vetor2.Length; i++)vetor2[i] = vetor[i + vetor.Length / 2];
+                vetor1 = divisor(vetor1);
+                vetor2 = divisor(vetor2);
+                vetor = ordenar(vetor1, vetor2);
+            }
+            return vetor;
+        }
+        static int[] ordenar(int[] vetor1, int[] vetor2)
+        {
+            int[] vetorAux = new int[vetor1.Length + vetor2.Length];
+            for (int i = 0, j = 0, k = 0; k < vetorAux.Length; k++)
+            {
+                if (i == vetor1.Length)
                 {
-                    vetor[k] = vetor1[i];
+                    vetorAux[k] = vetor2[j];
+                    j++;
+                }
+                else if (j == vetor2.Length)
+                {
+                    vetorAux[k] = vetor1[i];
+                    i++;
+                }
+                else if (vetor1[i] < vetor2[j])
+                {
+                    vetorAux[k] = vetor1[i];
                     i++;
                 }
                 else
                 {
-                    vetor[k] = vetor2[j];
+                    vetorAux[k] = vetor2[j];
                     j++;
                 }
             }
-            for (; i < parte1; i++, k++) vetor[k] = vetor1[i];
-            for (; j < parte2; j++, k++) vetor[k] = vetor2[j];
+            return vetorAux;
         }
-        static void Main(string[] args)
+        static void criaVetor(int[] vetor)
         {
-            const int tam = 10;
-            Console.WriteLine("\n================================");
-            Console.WriteLine("Exercício 02");
-            int[] vetor = new int[tam];
             for (int i = 0; i < vetor.Length; i++)
             {
                 Random rand = new Random();
                 vetor[i] = rand.Next(0, 10);
             }
+        }
+        const int tam = 10;
+        static void Main(string[] args)
+        {
+            Console.WriteLine("\n================================");
+            Console.WriteLine("Exercício 02");
+            int[] vetor = new int[tam];
+            criaVetor(vetor);
             Console.Write("\nO vetor: ");
-            for (int i = 0; i < vetor.Length; i++) Console.Write(vetor[i] + " ");
-            organizar(vetor, 0, 5);
-            Console.Write("\nOrganizado: ");
-            for (int i = 0; i < vetor.Length; i++) Console.Write(vetor[i] + " ");
+            for(int i = 0; i < vetor.Length; i++) Console.Write("{0} ", vetor[i]);
+            vetor = divisor(vetor);
+            Console.Write("\nOrdenado: ");
+            for(int i = 0; i < vetor.Length; i++) Console.Write("{0} ", vetor[i]);
             Console.WriteLine("\n================================\n");
         }
     }
