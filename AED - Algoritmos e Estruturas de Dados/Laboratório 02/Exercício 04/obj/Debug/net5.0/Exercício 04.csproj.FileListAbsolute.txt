@@ -1,0 +1,16 @@
+D:\GitHub Desktop\Puc\AED - Algoritmos e Estruturas de Dados\Laboratório 02\Exercício 04\bin\Debug\net5.0\Exercício 04.exe
+D:\GitHub Desktop\Puc\AED - Algoritmos e Estruturas de Dados\Laboratório 02\Exercício 04\bin\Debug\net5.0\Exercício 04.deps.json
+D:\GitHub Desktop\Puc\AED - Algoritmos e Estruturas de Dados\Laboratório 02\Exercício 04\bin\Debug\net5.0\Exercício 04.runtimeconfig.json
+D:\GitHub Desktop\Puc\AED - Algoritmos e Estruturas de Dados\Laboratório 02\Exercício 04\bin\Debug\net5.0\Exercício 04.runtimeconfig.dev.json
+D:\GitHub Desktop\Puc\AED - Algoritmos e Estruturas de Dados\Laboratório 02\Exercício 04\bin\Debug\net5.0\Exercício 04.dll
+D:\GitHub Desktop\Puc\AED - Algoritmos e Estruturas de Dados\Laboratório 02\Exercício 04\bin\Debug\net5.0\Exercício 04.pdb
+D:\GitHub Desktop\Puc\AED - Algoritmos e Estruturas de Dados\Laboratório 02\Exercício 04\obj\Debug\net5.0\Exercício 04.csproj.AssemblyReference.cache
+D:\GitHub Desktop\Puc\AED - Algoritmos e Estruturas de Dados\Laboratório 02\Exercício 04\obj\Debug\net5.0\Exercício 04.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub Desktop\Puc\AED - Algoritmos e Estruturas de Dados\Laboratório 02\Exercício 04\obj\Debug\net5.0\Exercício 04.AssemblyInfoInputs.cache
+D:\GitHub Desktop\Puc\AED - Algoritmos e Estruturas de Dados\Laboratório 02\Exercício 04\obj\Debug\net5.0\Exercício 04.AssemblyInfo.cs
+D:\GitHub Desktop\Puc\AED - Algoritmos e Estruturas de Dados\Laboratório 02\Exercício 04\obj\Debug\net5.0\Exercício 04.csproj.CoreCompileInputs.cache
+D:\GitHub Desktop\Puc\AED - Algoritmos e Estruturas de Dados\Laboratório 02\Exercício 04\obj\Debug\net5.0\Exercício 04.dll
+D:\GitHub Desktop\Puc\AED - Algoritmos e Estruturas de Dados\Laboratório 02\Exercício 04\obj\Debug\net5.0\refint\Exercício 04.dll
+D:\GitHub Desktop\Puc\AED - Algoritmos e Estruturas de Dados\Laboratório 02\Exercício 04\obj\Debug\net5.0\Exercício 04.pdb
+D:\GitHub Desktop\Puc\AED - Algoritmos e Estruturas de Dados\Laboratório 02\Exercício 04\obj\Debug\net5.0\Exercício 04.genruntimeconfig.cache
+D:\GitHub Desktop\Puc\AED - Algoritmos e Estruturas de Dados\Laboratório 02\Exercício 04\obj\Debug\net5.0\ref\Exercício 04.dll

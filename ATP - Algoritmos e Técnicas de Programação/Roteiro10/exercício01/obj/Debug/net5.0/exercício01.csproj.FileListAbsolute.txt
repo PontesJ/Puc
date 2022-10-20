@@ -14,3 +14,19 @@ C:\Users\joaog\Documents\Puc\Lab\Roteiro10\exercício01\obj\Debug\net5.0\exercí
 C:\Users\joaog\Documents\Puc\Lab\Roteiro10\exercício01\obj\Debug\net5.0\ref\exercício01.dll
 C:\Users\joaog\Documents\Puc\Lab\Roteiro10\exercício01\obj\Debug\net5.0\exercício01.pdb
 C:\Users\joaog\Documents\Puc\Lab\Roteiro10\exercício01\obj\Debug\net5.0\exercício01.genruntimeconfig.cache
+D:\GitHub Desktop\Puc\ATP - Algoritmos e Técnicas de Programação\Roteiro10\exercício01\bin\Debug\net5.0\exercício01.exe
+D:\GitHub Desktop\Puc\ATP - Algoritmos e Técnicas de Programação\Roteiro10\exercício01\bin\Debug\net5.0\exercício01.deps.json
+D:\GitHub Desktop\Puc\ATP - Algoritmos e Técnicas de Programação\Roteiro10\exercício01\bin\Debug\net5.0\exercício01.runtimeconfig.json
+D:\GitHub Desktop\Puc\ATP - Algoritmos e Técnicas de Programação\Roteiro10\exercício01\bin\Debug\net5.0\exercício01.runtimeconfig.dev.json
+D:\GitHub Desktop\Puc\ATP - Algoritmos e Técnicas de Programação\Roteiro10\exercício01\bin\Debug\net5.0\exercício01.dll
+D:\GitHub Desktop\Puc\ATP - Algoritmos e Técnicas de Programação\Roteiro10\exercício01\bin\Debug\net5.0\exercício01.pdb
+D:\GitHub Desktop\Puc\ATP - Algoritmos e Técnicas de Programação\Roteiro10\exercício01\obj\Debug\net5.0\exercício01.csproj.AssemblyReference.cache
+D:\GitHub Desktop\Puc\ATP - Algoritmos e Técnicas de Programação\Roteiro10\exercício01\obj\Debug\net5.0\exercício01.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub Desktop\Puc\ATP - Algoritmos e Técnicas de Programação\Roteiro10\exercício01\obj\Debug\net5.0\exercício01.AssemblyInfoInputs.cache
+D:\GitHub Desktop\Puc\ATP - Algoritmos e Técnicas de Programação\Roteiro10\exercício01\obj\Debug\net5.0\exercício01.AssemblyInfo.cs
+D:\GitHub Desktop\Puc\ATP - Algoritmos e Técnicas de Programação\Roteiro10\exercício01\obj\Debug\net5.0\exercício01.csproj.CoreCompileInputs.cache
+D:\GitHub Desktop\Puc\ATP - Algoritmos e Técnicas de Programação\Roteiro10\exercício01\obj\Debug\net5.0\exercício01.dll
+D:\GitHub Desktop\Puc\ATP - Algoritmos e Técnicas de Programação\Roteiro10\exercício01\obj\Debug\net5.0\refint\exercício01.dll
+D:\GitHub Desktop\Puc\ATP - Algoritmos e Técnicas de Programação\Roteiro10\exercício01\obj\Debug\net5.0\exercício01.pdb
+D:\GitHub Desktop\Puc\ATP - Algoritmos e Técnicas de Programação\Roteiro10\exercício01\obj\Debug\net5.0\exercício01.genruntimeconfig.cache
+D:\GitHub Desktop\Puc\ATP - Algoritmos e Técnicas de Programação\Roteiro10\exercício01\obj\Debug\net5.0\ref\exercício01.dll

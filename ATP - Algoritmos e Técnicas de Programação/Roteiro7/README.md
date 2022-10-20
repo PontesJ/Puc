@@ -57,5 +57,5 @@ $$
 L = 1 - \frac{2}{4} + \frac{1}{3} - \frac{4}{16} + ... + \frac{N}{N^2} 
 $$
 
-(Obs: N deverá ser lido)
+(Obs: N deverá ser lido)<br>
 **<a href="./Roteiro7/exercicio06c/Program.cs">Resolução</a>**

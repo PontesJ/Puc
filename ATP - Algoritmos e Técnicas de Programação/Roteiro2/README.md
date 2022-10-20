@@ -31,19 +31,19 @@ Faça um programa que receba o valor do salário mínimo e o valor do salário d
 
 ## Exercício 06
 
-Faça um programa que receba o valor dos catetos de um triângulo, calcule e mostre o valor da hipotenusa.
-Obs: Para calcular a raiz quadrada use a função sqrt() como abaixo:
+Faça um programa que receba o valor dos catetos de um triângulo, calcule e mostre o valor da hipotenusa.<br>
+Obs: Para calcular a raiz quadrada use a função sqrt() como abaixo:<br>
 **y = Math.Sqrt(x)** // calcula a raiz quadrada de **x** coloca o resultado na variável **y**.
 
 **<a href="./exercicio6/Program.cs">Resolução</a>**
 
 ## Exercício 07
 
-Faça um programa que receba o raio, calcule e mostre:
-a) o comprimento de uma esfera, sabe-se que C = 2πR;
-b) a área de uma esfera, sabe-se que A = πR<sup>2</sup>;
-c) o volume de uma esfera, sabe-se que V = 4/3πR<sup>3</sup>.
-Obs: Para calcular o raio ao quadrado ou ao cubo você pode usar a função pow() como abaixo:
+Faça um programa que receba o raio, calcule e mostre:<br>
+a) o comprimento de uma esfera, sabe-se que C = 2πR;<br>
+b) a área de uma esfera, sabe-se que A = πR<sup>2</sup>;<br>
+c) o volume de uma esfera, sabe-se que V = 4/3πR<sup>3</sup>.<br>
+Obs: Para calcular o raio ao quadrado ou ao cubo você pode usar a função pow() como abaixo:<br>
 **Z = Math.Pow(x, y)** // calcula a potência: **X<sup>Y</sup>** e coloca o resultado na variável **Z**.
 
 **<a href="./exercicio7/Program.cs">Resolução</a>**

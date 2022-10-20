@@ -1,0 +1,16 @@
+D:\GitHub Desktop\Puc\ATP - Algoritmos e Técnicas de Programação\Roteiro10\exercício07\bin\Debug\net5.0\exercício07.exe
+D:\GitHub Desktop\Puc\ATP - Algoritmos e Técnicas de Programação\Roteiro10\exercício07\bin\Debug\net5.0\exercício07.deps.json
+D:\GitHub Desktop\Puc\ATP - Algoritmos e Técnicas de Programação\Roteiro10\exercício07\bin\Debug\net5.0\exercício07.runtimeconfig.json
+D:\GitHub Desktop\Puc\ATP - Algoritmos e Técnicas de Programação\Roteiro10\exercício07\bin\Debug\net5.0\exercício07.runtimeconfig.dev.json
+D:\GitHub Desktop\Puc\ATP - Algoritmos e Técnicas de Programação\Roteiro10\exercício07\bin\Debug\net5.0\exercício07.dll
+D:\GitHub Desktop\Puc\ATP - Algoritmos e Técnicas de Programação\Roteiro10\exercício07\bin\Debug\net5.0\exercício07.pdb
+D:\GitHub Desktop\Puc\ATP - Algoritmos e Técnicas de Programação\Roteiro10\exercício07\obj\Debug\net5.0\exercício07.csproj.AssemblyReference.cache
+D:\GitHub Desktop\Puc\ATP - Algoritmos e Técnicas de Programação\Roteiro10\exercício07\obj\Debug\net5.0\exercício07.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub Desktop\Puc\ATP - Algoritmos e Técnicas de Programação\Roteiro10\exercício07\obj\Debug\net5.0\exercício07.AssemblyInfoInputs.cache
+D:\GitHub Desktop\Puc\ATP - Algoritmos e Técnicas de Programação\Roteiro10\exercício07\obj\Debug\net5.0\exercício07.AssemblyInfo.cs
+D:\GitHub Desktop\Puc\ATP - Algoritmos e Técnicas de Programação\Roteiro10\exercício07\obj\Debug\net5.0\exercício07.csproj.CoreCompileInputs.cache
+D:\GitHub Desktop\Puc\ATP - Algoritmos e Técnicas de Programação\Roteiro10\exercício07\obj\Debug\net5.0\exercício07.dll
+D:\GitHub Desktop\Puc\ATP - Algoritmos e Técnicas de Programação\Roteiro10\exercício07\obj\Debug\net5.0\refint\exercício07.dll
+D:\GitHub Desktop\Puc\ATP - Algoritmos e Técnicas de Programação\Roteiro10\exercício07\obj\Debug\net5.0\exercício07.pdb
+D:\GitHub Desktop\Puc\ATP - Algoritmos e Técnicas de Programação\Roteiro10\exercício07\obj\Debug\net5.0\exercício07.genruntimeconfig.cache
+D:\GitHub Desktop\Puc\ATP - Algoritmos e Técnicas de Programação\Roteiro10\exercício07\obj\Debug\net5.0\ref\exercício07.dll
