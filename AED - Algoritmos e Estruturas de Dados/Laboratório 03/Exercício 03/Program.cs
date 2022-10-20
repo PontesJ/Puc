@@ -4,29 +4,80 @@ namespace Exercício_03
 {
     class Program
     {
-        static int procurar(int[] vetor, int inicio, int tam, int numero, int pos)
+        static int[] divisor(int[] vetor, int pos)
         {
-            if (inicio <= tam)
+            if (pos == 1)
+                return vetor;
+
+            if (pos % 2 == 0)
             {
-                int metade = inicio + (tam - inicio) / 2;
-                if (vetor[metade] == numero) return pos = metade + 1;
-                if (vetor[metade] > numero) return procurar(vetor, inicio, metade - 1, numero, pos);
-                return procurar(vetor, metade + 1, tam, numero, pos);
+                int[] vetor1 = new int[pos / 2];
+                int[] vetor2 = new int[pos / 2];
+                for (int i = 0; i < vetor1.Length; i++) vetor1[i] = vetor[i];
+                for (int i = 0; i < vetor2.Length; i++) vetor2[i] = vetor[i + pos / 2];
+                vetor1 = divisor(vetor1, pos / 2);
+                vetor2 = divisor(vetor2, pos / 2);
+                ordenar(vetor, vetor1, vetor2);
             }
-            pos = -1;
-            return pos;
+            else
+            {
+                int[] vetor1 = new int[pos / 2];
+                int[] vetor2 = new int[pos / 2 + 1];
+                for (int i = 0; i < vetor1.Length; i++) vetor1[i] = vetor[i];
+                for (int i = 0; i < vetor2.Length; i++)vetor2[i] = vetor[i + pos / 2];
+                vetor1 = divisor(vetor1, pos / 2);
+                vetor2 = divisor(vetor2, pos / 2 + 1);
+                ordenar(vetor, vetor1, vetor2);
+            }
+            return vetor;
         }
+        static void ordenar(int[] vetor, int[] vetor1, int[] vetor2)
+        {
+            for (int i = 0, j = 0, k = 0; i < vetor.Length; i++)
+            {
+                if (k == vetor1.Length)
+                {
+                    vetor[i] = vetor2[j];
+                    j++;
+                }
+                else if (j == vetor2.Length)
+                {
+                    vetor[i] = vetor1[k];
+                    k++;
+                }
+                else if (vetor1[k] < vetor2[j])
+                {
+                    vetor[i] = vetor1[k];
+                    k++;
+                }
+                else
+                {
+                    vetor[i] = vetor2[j];
+                    j++;
+                }
+            }
+        }
+        static void criaVetor(int[] vetor)
+        {
+            for (int i = 0; i < vetor.Length; i++)
+            {
+                Random rand = new Random();
+                vetor[i] = rand.Next(0, 10);
+            }
+        }
+        const int tam = 10;
         static void Main(string[] args)
         {
-            const int tam = 5;
-            int pos = 0;
-            int[] vetor = new int[tam] { 10, 20, 30, 40, 50 };
             Console.WriteLine("\n================================");
             Console.WriteLine("Exercício 03");
-            Console.Write("\nDigite o número que deseja procurar no vetor: ");
-            int n = int.Parse(Console.ReadLine());
-            Console.WriteLine("\nO número {0} se encontra na {1}° posição", n, procurar(vetor, 0, tam - 1, n, pos));
-            Console.WriteLine("================================\n");
+            int[] vetor = new int[tam];
+            criaVetor(vetor);
+            Console.Write("\nO vetor: ");
+            for(int i = 0; i < vetor.Length; i++) Console.Write("{0} ", vetor[i]);
+            divisor(vetor, tam);
+            Console.Write("\nOrdenado: ");
+            for(int i = 0; i < vetor.Length; i++) Console.Write("{0} ", vetor[i]);
+            Console.WriteLine("\n================================\n");
         }
     }
 }

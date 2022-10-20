@@ -14,15 +14,15 @@ namespace Bubble_Sort
         }
         static void bubbleSort(int[] vetor)
         {
-            for (int i = 0; i < vetor.Length; i++)
+            for (int i = 0; i < vetor.Length - 1; i++)
             {
-                for (int j = 0; j < vetor.Length; j++)
+                for (int j = 0; j < vetor.Length - 1 - i; j++)
                 {
-                    if (vetor[i] < vetor[j])
+                    if (vetor[j + 1] < vetor[j])
                     {
                         int aux = vetor[j];
-                        vetor[j] = vetor[i];
-                        vetor[i] = aux;
+                        vetor[j] = vetor[j + 1];
+                        vetor[j + 1] = aux;
                     }
                 }
             }
