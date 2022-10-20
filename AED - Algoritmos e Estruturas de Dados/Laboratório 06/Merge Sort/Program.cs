@@ -19,10 +19,10 @@ namespace Merge_Sort
                 int metade = inicio + (tam - inicio) / 2;
                 mergeSort(vetor, inicio, metade);
                 mergeSort(vetor, metade + 1, tam);
-                organizador(vetor, inicio, metade, tam);
+                merge(vetor, inicio, metade, tam);
             }
         }
-        static void organizador(int[] vetor, int inicio, int metade, int tam)
+        static void merge(int[] vetor, int inicio, int metade, int tam)
         {
             int i, j, k;
             int parte1 = metade - inicio + 1;
