@@ -77,7 +77,7 @@ namespace Questão_04
             Console.WriteLine("\n===========");
             Console.WriteLine("Questão 04");
             Console.WriteLine("\nOs Cpfs:\n");
-            string[] cpfS = new string [10];
+            string[] cpfS = new string [50000];
             for (int i = 0; i < cpfS.Length; i++) cpfS[i] = criarCPF();
             for (int i = 0; i < cpfS.Length; i++) Console.WriteLine(cpfS[i]);
             mergeSort(cpfS, 0, cpfS.Length - 1);

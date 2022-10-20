@@ -10,7 +10,7 @@ D:\GitHub Desktop\Puc\AED - Algoritmos e Estruturas de Dados\Prova 01\Questão 0
 D:\GitHub Desktop\Puc\AED - Algoritmos e Estruturas de Dados\Prova 01\Questão 02\obj\Debug\net5.0\Questão 02.AssemblyInfo.cs
 D:\GitHub Desktop\Puc\AED - Algoritmos e Estruturas de Dados\Prova 01\Questão 02\obj\Debug\net5.0\Questão 02.csproj.CoreCompileInputs.cache
 D:\GitHub Desktop\Puc\AED - Algoritmos e Estruturas de Dados\Prova 01\Questão 02\obj\Debug\net5.0\Questão 02.dll
-D:\GitHub Desktop\Puc\AED - Algoritmos e Estruturas de Dados\Prova 01\Questão 02\obj\Debug\net5.0\refint\Questão 02.dll
 D:\GitHub Desktop\Puc\AED - Algoritmos e Estruturas de Dados\Prova 01\Questão 02\obj\Debug\net5.0\Questão 02.pdb
 D:\GitHub Desktop\Puc\AED - Algoritmos e Estruturas de Dados\Prova 01\Questão 02\obj\Debug\net5.0\Questão 02.genruntimeconfig.cache
 D:\GitHub Desktop\Puc\AED - Algoritmos e Estruturas de Dados\Prova 01\Questão 02\obj\Debug\net5.0\ref\Questão 02.dll
+D:\GitHub Desktop\Puc\AED - Algoritmos e Estruturas de Dados\Prova 01\Questão 02\bin\Debug\net5.0\ref\Questão 02.dll
