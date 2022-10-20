@@ -1,0 +1,16 @@
+D:\GitHub Desktop\Puc\AED - Algoritmos e Estruturas de Dados\Prova 01\Questão 05\bin\Debug\net5.0\Questão 05.exe
+D:\GitHub Desktop\Puc\AED - Algoritmos e Estruturas de Dados\Prova 01\Questão 05\bin\Debug\net5.0\Questão 05.deps.json
+D:\GitHub Desktop\Puc\AED - Algoritmos e Estruturas de Dados\Prova 01\Questão 05\bin\Debug\net5.0\Questão 05.runtimeconfig.json
+D:\GitHub Desktop\Puc\AED - Algoritmos e Estruturas de Dados\Prova 01\Questão 05\bin\Debug\net5.0\Questão 05.runtimeconfig.dev.json
+D:\GitHub Desktop\Puc\AED - Algoritmos e Estruturas de Dados\Prova 01\Questão 05\bin\Debug\net5.0\Questão 05.dll
+D:\GitHub Desktop\Puc\AED - Algoritmos e Estruturas de Dados\Prova 01\Questão 05\bin\Debug\net5.0\Questão 05.pdb
+D:\GitHub Desktop\Puc\AED - Algoritmos e Estruturas de Dados\Prova 01\Questão 05\obj\Debug\net5.0\Questão 05.csproj.AssemblyReference.cache
+D:\GitHub Desktop\Puc\AED - Algoritmos e Estruturas de Dados\Prova 01\Questão 05\obj\Debug\net5.0\Questão 05.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub Desktop\Puc\AED - Algoritmos e Estruturas de Dados\Prova 01\Questão 05\obj\Debug\net5.0\Questão 05.AssemblyInfoInputs.cache
+D:\GitHub Desktop\Puc\AED - Algoritmos e Estruturas de Dados\Prova 01\Questão 05\obj\Debug\net5.0\Questão 05.AssemblyInfo.cs
+D:\GitHub Desktop\Puc\AED - Algoritmos e Estruturas de Dados\Prova 01\Questão 05\obj\Debug\net5.0\Questão 05.csproj.CoreCompileInputs.cache
+D:\GitHub Desktop\Puc\AED - Algoritmos e Estruturas de Dados\Prova 01\Questão 05\obj\Debug\net5.0\Questão 05.dll
+D:\GitHub Desktop\Puc\AED - Algoritmos e Estruturas de Dados\Prova 01\Questão 05\obj\Debug\net5.0\refint\Questão 05.dll
+D:\GitHub Desktop\Puc\AED - Algoritmos e Estruturas de Dados\Prova 01\Questão 05\obj\Debug\net5.0\Questão 05.pdb
+D:\GitHub Desktop\Puc\AED - Algoritmos e Estruturas de Dados\Prova 01\Questão 05\obj\Debug\net5.0\Questão 05.genruntimeconfig.cache
+D:\GitHub Desktop\Puc\AED - Algoritmos e Estruturas de Dados\Prova 01\Questão 05\obj\Debug\net5.0\ref\Questão 05.dll

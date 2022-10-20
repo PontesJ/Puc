@@ -77,9 +77,8 @@ static void imprimirMatriz(int[,] matriz)
 ```
 static void lerArquivo()
 {
-    string linha;
     StreamReader ler = new StreamReader("../textos/texto.txt");
-    linha = ler.ReadLine();
+    string linha = ler.ReadLine();
     while (linha != null)
     {
         Console.WriteLine(linha);
