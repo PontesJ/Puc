@@ -240,7 +240,7 @@ Escreva um algoritmo de Contagem.
 
 **<a href="./Laboratório 06/Contagem/Program.cs">Resolução</a>**
 
-# <a href="./Laboratório 07 - Prova 01">Prova 01</a>
+# <a href="./Laboratório 07 - Prova 01">Laboratório 07 - Prova 01</a>
 
 ## Questão 01
 
