@@ -252,7 +252,7 @@ b. Peça para o usuário inserir um texto no terminal/console.<br>
 c. Compare o texto escrito pelo usuário e o texto lido no arquivo, e escreva na tela quantos termos "IGUAIS" e "DIFERENTE".<br>
 d. Descreva quais as operações relevantes.
 
-### <a href="./Laboratório 07 - Prova 01/Questão 01/Program.cs">Código</a>
+**<a href="./Laboratório 07 - Prova 01/Questão 01/Program.cs">Código</a>**
 
 ## Questão 02
 
@@ -270,7 +270,7 @@ Int funcRec1(int a){
 }
 ```
 
-### <a href="./Laboratório 07 - Prova 01/Questão 02/Program.cs">Código</a>
+**<a href="./Laboratório 07 - Prova 01/Questão 02/Program.cs">Código</a>**
 
 ## Questão 03
 
@@ -287,7 +287,7 @@ Exemplo de entrada e saída esperados:
 
 Observações: considere que o arquivo "entrada.txt" contenha no mínimo uma linha de conteúdo.
 
-### <a href="./Laboratório 07 - Prova 01/Questão 03/Program.cs">Código</a>
+**<a href="./Laboratório 07 - Prova 01/Questão 03/Program.cs">Código</a>**
 
 ## Questão 04
 
@@ -297,7 +297,7 @@ b. Qual algoritmo de ordenação utilizaria? Justifique.<br>
 c. Descreva quais as operações relevantes.<br>
 d. Demonstre a viabilidade da sua solução para 10 registros.
 
-### <a href="./Laboratório 07 - Prova 01/Questão 04/Program.cs">Código</a>
+**<a href="./Laboratório 07 - Prova 01/Questão 04/Program.cs">Código</a>**
 
 ## Questão 05
 
@@ -321,7 +321,7 @@ int funcao (int a, int v[7])
 }
 ```
 
-### <a href="./Laboratório 07 - Prova 01/Questão 05/Program.cs">Código</a>
+**<a href="./Laboratório 07 - Prova 01/Questão 05/Program.cs">Código</a>**
 
 ---
 
