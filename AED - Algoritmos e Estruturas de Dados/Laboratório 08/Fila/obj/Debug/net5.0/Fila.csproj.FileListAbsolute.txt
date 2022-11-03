@@ -1,0 +1,16 @@
+D:\GitHub Desktop\Puc\AED - Algoritmos e Estruturas de Dados\Laboratório 08\Fila\bin\Debug\net5.0\Fila.exe
+D:\GitHub Desktop\Puc\AED - Algoritmos e Estruturas de Dados\Laboratório 08\Fila\bin\Debug\net5.0\Fila.deps.json
+D:\GitHub Desktop\Puc\AED - Algoritmos e Estruturas de Dados\Laboratório 08\Fila\bin\Debug\net5.0\Fila.runtimeconfig.json
+D:\GitHub Desktop\Puc\AED - Algoritmos e Estruturas de Dados\Laboratório 08\Fila\bin\Debug\net5.0\Fila.runtimeconfig.dev.json
+D:\GitHub Desktop\Puc\AED - Algoritmos e Estruturas de Dados\Laboratório 08\Fila\bin\Debug\net5.0\Fila.dll
+D:\GitHub Desktop\Puc\AED - Algoritmos e Estruturas de Dados\Laboratório 08\Fila\bin\Debug\net5.0\ref\Fila.dll
+D:\GitHub Desktop\Puc\AED - Algoritmos e Estruturas de Dados\Laboratório 08\Fila\bin\Debug\net5.0\Fila.pdb
+D:\GitHub Desktop\Puc\AED - Algoritmos e Estruturas de Dados\Laboratório 08\Fila\obj\Debug\net5.0\Fila.csproj.AssemblyReference.cache
+D:\GitHub Desktop\Puc\AED - Algoritmos e Estruturas de Dados\Laboratório 08\Fila\obj\Debug\net5.0\Fila.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub Desktop\Puc\AED - Algoritmos e Estruturas de Dados\Laboratório 08\Fila\obj\Debug\net5.0\Fila.AssemblyInfoInputs.cache
+D:\GitHub Desktop\Puc\AED - Algoritmos e Estruturas de Dados\Laboratório 08\Fila\obj\Debug\net5.0\Fila.AssemblyInfo.cs
+D:\GitHub Desktop\Puc\AED - Algoritmos e Estruturas de Dados\Laboratório 08\Fila\obj\Debug\net5.0\Fila.csproj.CoreCompileInputs.cache
+D:\GitHub Desktop\Puc\AED - Algoritmos e Estruturas de Dados\Laboratório 08\Fila\obj\Debug\net5.0\Fila.dll
+D:\GitHub Desktop\Puc\AED - Algoritmos e Estruturas de Dados\Laboratório 08\Fila\obj\Debug\net5.0\ref\Fila.dll
+D:\GitHub Desktop\Puc\AED - Algoritmos e Estruturas de Dados\Laboratório 08\Fila\obj\Debug\net5.0\Fila.pdb
+D:\GitHub Desktop\Puc\AED - Algoritmos e Estruturas de Dados\Laboratório 08\Fila\obj\Debug\net5.0\Fila.genruntimeconfig.cache

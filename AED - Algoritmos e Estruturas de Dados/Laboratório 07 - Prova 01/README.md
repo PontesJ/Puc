@@ -10,8 +10,6 @@ d. Descreva quais as operações relevantes.
 
 ### <a href="./Questão 01/Program.cs">Código</a>
 
----
-
 ## Questão 02
 
 2\. Dado o código a seguir, responda: (25%)<br>
@@ -30,8 +28,6 @@ Int funcRec1(int a){
 
 ### <a href="./Questão 02/Program.cs">Código</a>
 
----
-
 ## Questão 03
 
 3\. Modele, projete e calcule a complexidade de um programa que: (20%)<br>
@@ -49,8 +45,6 @@ Observações: considere que o arquivo "entrada.txt" contenha no mínimo uma lin
 
 ### <a href="./Questão 03/Program.cs">Código</a>
 
----
-
 ## Questão 04
 
 4\. Um banco famoso enfrenta problemas de consulta em seu banco de registros. Dentre os problemas identificados pela gerência está a localização das contas dos seus titulares nas listagens e nos relatórios impressos em diferentes situações. Um especialista de TI sugeriu ordenar as contas por meio dos CPF dos seus n titulares antes das impressões. Dentre alguns algoritmos pré-selecionados para essa ordenação, o especialista escolheu o algoritmo de ordenação por inserção. Se você fosse o especialista, responda: (20%)<br>
@@ -60,8 +54,6 @@ c. Descreva quais as operações relevantes.<br>
 d. Demonstre a viabilidade da sua solução para 10 registros.
 
 ### <a href="./Questão 04/Program.cs">Código</a>
-
----
 
 ## Questão 05
 

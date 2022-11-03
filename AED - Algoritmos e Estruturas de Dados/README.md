@@ -240,6 +240,8 @@ Escreva um algoritmo de Contagem.
 
 **<a href="./Laboratório 06/Contagem/Program.cs">Resolução</a>**
 
+---
+
 # <a href="./Laboratório 07 - Prova 01">Laboratório 07 - Prova 01</a>
 
 ## Questão 01
@@ -251,8 +253,6 @@ c. Compare o texto escrito pelo usuário e o texto lido no arquivo, e escreva na
 d. Descreva quais as operações relevantes.
 
 ### <a href="./Laboratório 07 - Prova 01/Questão 01/Program.cs">Código</a>
-
----
 
 ## Questão 02
 
@@ -272,8 +272,6 @@ Int funcRec1(int a){
 
 ### <a href="./Laboratório 07 - Prova 01/Questão 02/Program.cs">Código</a>
 
----
-
 ## Questão 03
 
 3\. Modele, projete e calcule a complexidade de um programa que: (20%)<br>
@@ -291,8 +289,6 @@ Observações: considere que o arquivo "entrada.txt" contenha no mínimo uma lin
 
 ### <a href="./Laboratório 07 - Prova 01/Questão 03/Program.cs">Código</a>
 
----
-
 ## Questão 04
 
 4\. Um banco famoso enfrenta problemas de consulta em seu banco de registros. Dentre os problemas identificados pela gerência está a localização das contas dos seus titulares nas listagens e nos relatórios impressos em diferentes situações. Um especialista de TI sugeriu ordenar as contas por meio dos CPF dos seus n titulares antes das impressões. Dentre alguns algoritmos pré-selecionados para essa ordenação, o especialista escolheu o algoritmo de ordenação por inserção. Se você fosse o especialista, responda: (20%)<br>
@@ -302,8 +298,6 @@ c. Descreva quais as operações relevantes.<br>
 d. Demonstre a viabilidade da sua solução para 10 registros.
 
 ### <a href="./Laboratório 07 - Prova 01/Questão 04/Program.cs">Código</a>
-
----
 
 ## Questão 05
 
@@ -328,3 +322,25 @@ int funcao (int a, int v[7])
 ```
 
 ### <a href="./Laboratório 07 - Prova 01/Questão 05/Program.cs">Código</a>
+
+---
+
+# <a href="./Laboratório 08">Laboratório 08</a>
+
+## Fila
+
+Faça uma fila estática com os métodos de inserção e retirada.
+
+**<a href="./Laboratório 08/Fila/Program.cs">Resolução</a>**
+
+## Lista
+
+Faça uma lista estática com os métodos de inserção e retirada.
+
+**<a href="./Laboratório 08/Lista/Program.cs">Resolução</a>**
+
+## Pilha
+
+Faça uma pilha estática com os métodos de inserção e retirada.
+
+**<a href="./Laboratório 08/Pilha/Program.cs">Resolução</a>**
