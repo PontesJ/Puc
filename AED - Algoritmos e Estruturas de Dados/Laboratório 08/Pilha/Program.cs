@@ -42,8 +42,10 @@ namespace Pilha
         {
             Console.ForegroundColor = ConsoleColor.Cyan;
             Console.Write("A pilha: ");
+
             for (int i = 0; i < quant; i++)
                 Console.Write(vetor[i] + " ");
+
             Console.WriteLine();
             Console.ResetColor();
         }
@@ -54,11 +56,13 @@ namespace Pilha
             int[] pilha = new int[tam] { 1, 2, 3, 4, 5, 0, 0, 0, 0, 0 };
             int quant = 5;
             imprime(pilha, quant);
+
             do
             {
                 Console.Write("Deseja adicionar ou remover um número (a/r): ");
                 char valid = Console.ReadKey().KeyChar;
                 valid = validar(valid, 2);
+
                 if (valid == 'a' || valid == 'A')
                 {
                     if (quant >= tam)
@@ -72,6 +76,7 @@ namespace Pilha
                         Console.ForegroundColor = ConsoleColor.Green;
                         Console.Write("Digite um número para adicionar na pilha: ");
                         Console.ResetColor();
+
                         adicionar(pilha, ref quant, int.Parse(Console.ReadLine()));
                         imprime(pilha, quant);
                     }
@@ -89,13 +94,16 @@ namespace Pilha
                         Console.ForegroundColor = ConsoleColor.Red;
                         Console.WriteLine("O número {0} foi removido", remover(pilha, ref quant));
                         Console.ResetColor();
+
                         imprime(pilha, quant);
                     }
                 }
                 Console.Write("Deseja continuar? (s/n) ");
                 repetir = Console.ReadKey().KeyChar;
                 repetir = validar(repetir, 1);
+
             } while (repetir == 'S' || repetir == 's');
+            
             imprime(pilha, quant);
         }
     }

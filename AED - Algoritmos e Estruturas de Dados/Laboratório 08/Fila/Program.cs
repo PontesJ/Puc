@@ -12,8 +12,10 @@ namespace Fila
         static int remover(int[] fila, ref int quant)
         {
             int n = fila[0];
+
             for (int i = 0; i < quant - 1; i++)
                 fila[i] = fila[i + 1];
+
             quant--;
             return n;
         }
@@ -45,8 +47,10 @@ namespace Fila
         {
             Console.ForegroundColor = ConsoleColor.Cyan;
             Console.Write("A fila: ");
+
             for (int i = 0; i < quant; i++)
                 Console.Write(vetor[i] + " ");
+
             Console.WriteLine();
             Console.ResetColor();
         }
@@ -57,11 +61,13 @@ namespace Fila
             int[] fila = new int[tam] { 1, 2, 3, 4, 5, 0, 0, 0, 0, 0 };
             int quant = 5;
             imprime(fila, quant);
+
             do
             {
                 Console.Write("Deseja adicionar ou remover um número (a/r): ");
                 char valid = Console.ReadKey().KeyChar;
                 valid = validar(valid, 2);
+
                 if (valid == 'a' || valid == 'A')
                 {
                     if (quant >= tam)
@@ -75,6 +81,7 @@ namespace Fila
                         Console.ForegroundColor = ConsoleColor.Green;
                         Console.Write("Digite um número para adicionar na fila: ");
                         Console.ResetColor();
+
                         adicionar(fila, ref quant, int.Parse(Console.ReadLine()));
                         imprime(fila, quant);
                     }
@@ -92,13 +99,16 @@ namespace Fila
                         Console.ForegroundColor = ConsoleColor.Red;
                         Console.WriteLine("O número {0} foi removido", remover(fila, ref quant));
                         Console.ResetColor();
+
                         imprime(fila, quant);
                     }
                 }
                 Console.Write("Deseja continuar? (s/n) ");
                 repetir = Console.ReadKey().KeyChar;
                 repetir = validar(repetir, 1);
+
             } while (repetir == 'S' || repetir == 's');
+            
             imprime(fila, quant);
         }
     }

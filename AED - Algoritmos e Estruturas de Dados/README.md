@@ -344,3 +344,25 @@ Faça uma lista estática com os métodos de inserção e retirada.
 Faça uma pilha estática com os métodos de inserção e retirada.
 
 **<a href="./Laboratório 08/Pilha/Program.cs">Resolução</a>**
+
+---
+
+# <a href="./Laboratório 09">Laboratório 09</a>
+
+## Exercício 01
+
+Crie uma pilha que receberá uma cópia da pilha original.
+
+**<a href="./Laboratório 09/Exercício 01/Program.cs">Resolução</a>**
+
+## Exercício 02
+
+Crie uma fila que receberá a fila original com a ordem inversa dos itens.
+
+**<a href="./Laboratório 09/Exercício 02/Program.cs">Resolução</a>**
+
+## Exercício 03
+
+Crie uma lista com o dobro do tamanho da lista original. Ela receberá a lista original e seu inverso.
+
+**<a href="./Laboratório 09/Exercício 03/Program.cs">Resolução</a>**
