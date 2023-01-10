@@ -8,6 +8,7 @@ Elaborar programa na linguagem Assembly para processador MIPS, de forma organiza
 4) Elaborar um subrotina para ler números inteiros 
 5) <a href="./Exercício 05.asm">Colecionar essas subrotinas em um arquivo .asm</a>
 6) <a href="./Exercício 06.asm">Elaborar um programa para:</a>
+
     A) Incluir o arquivo .asm contendo as sub-rotinas  
     B) Ler e imprimir os nomes dos membros do grupo 
     C) Ler e imprimir os números de matrícula dos membros do grupo 
