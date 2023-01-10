@@ -8,10 +8,10 @@ Elaborar programa na linguagem Assembly para processador MIPS, de forma organiza
 4) Elaborar um subrotina para ler números inteiros.
 5) <a href="./Exercício 05.asm">Colecionar essas subrotinas em um arquivo .asm.</a>
 6) <a href="./Exercício 06.asm">Elaborar um programa para:</a><br>
-    A) Incluir o arquivo .asm contendo as sub-rotinas.
-    B) Ler e imprimir os nomes dos membros do grupo.
-    C) Ler e imprimir os números de matrícula dos membros do grupo.
-    D) Ler os valores dos coeficientes e das variáveis independentes (x,y,z) para cálculo da equação 1.
+    A) Incluir o arquivo .asm contendo as sub-rotinas.<br>
+    B) Ler e imprimir os nomes dos membros do grupo.<br>
+    C) Ler e imprimir os números de matrícula dos membros do grupo.<br>
+    D) Ler os valores dos coeficientes e das variáveis independentes (x,y,z) para cálculo da equação 1.<br>
     E) Imprimir o valor da variável dependente f(x,yz).
 
 Equação: $f(x,y,z) = -9ax^3 - 6bx^2 - 7cy^2 + 5dz$
