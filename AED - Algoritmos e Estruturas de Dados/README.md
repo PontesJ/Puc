@@ -366,3 +366,69 @@ Crie uma fila que receberá a fila original com a ordem inversa dos itens.
 Crie uma lista com o dobro do tamanho da lista original. Ela receberá a lista original e seu inverso.
 
 **<a href="./Laboratório 09/Exercício 03/Program.cs">Resolução</a>**
+
+---
+
+# <a href="./Laboratório 10">Laboratório 10</a>
+
+## Notação Polonesa Reversa (Pós-Fixa)
+
+Implemente um programa que receba uma expressão matemática do teclado e dê seu resultado.
+
+**<a href="./Laboratório 10/Calculadora Polonesa">Resolução</a>**
+
+## Fila
+
+Faça uma fila dinâmica usando classes.
+
+**<a href="./Laboratório 10/Fila">Resolução</a>**
+
+## Lista
+
+Faça uma lista dinâmica usando classes.
+
+**<a href="./Laboratório 10/Lista">Resolução</a>**
+
+## Pilha
+
+Faça uma pilha dinâmica usando classes.
+
+**<a href="./Laboratório 10/Pilha">Resolução</a>**
+
+---
+
+# <a href="./Laboratório 11">Laboratório 11</a>
+
+## Exercício 01
+
+Faça uma lista duplamente encadeada dinâmica.
+
+**<a href="./Laboratório 11/Exercício 01">Resolução</a>**
+
+## Exercício 02
+
+Faça uma lista circular estática.
+
+**<a href="./Laboratório 11/Exercício 02">Resolução</a>**
+
+## Exercício 03
+
+Faça uma lista circular dinâmica.
+
+**<a href="./Laboratório 11/Exercício 03">Resolução</a>**
+
+---
+
+# <a href="./Laboratório 12">Laboratório 12</a>
+
+## Exercício 01
+
+Faça uma Árvore ABB.
+
+**<a href="./Laboratório 12/Exercício 01">Resolução</a>**
+
+## Exercício 02
+
+Faça uma Árvore AVL.
+
+**<a href="./Laboratório 12/Exercício 02">Resolução</a>**

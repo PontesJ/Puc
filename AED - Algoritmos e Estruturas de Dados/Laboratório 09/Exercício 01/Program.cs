@@ -26,6 +26,17 @@ namespace Exercício_01
             Console.WriteLine();
             Console.ResetColor();
         }
+        static void imprime2(int[] vetor, int quant)
+        {
+            Console.ForegroundColor = ConsoleColor.Cyan;
+
+            Console.Write("Outra pilha: ");
+            for (int i = 0; i < quant; i++)
+                Console.Write(vetor[i] + " ");
+
+            Console.WriteLine();
+            Console.ResetColor();
+        }
         static int[] copiar(int[] vetor, int quant)
         {
             int[] aux = new int[quant];
@@ -51,7 +62,7 @@ namespace Exercício_01
             aux = copiar(pilha, quant);
             
             imprime(pilha, quant);
-            imprime(aux, quant);
+            imprime2(aux, quant);
         }
     }
 }

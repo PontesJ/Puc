@@ -29,6 +29,17 @@ namespace Exercício_02
             Console.WriteLine();
             Console.ResetColor();
         }
+        static void imprime2(int[] vetor, int quant)
+        {
+            Console.ForegroundColor = ConsoleColor.Cyan;
+
+            Console.Write("Fila Inversa: ");
+            for (int i = 0; i < quant; i++)
+                Console.Write(vetor[i] + " ");
+
+            Console.WriteLine();
+            Console.ResetColor();
+        }
         static int[] inverte(int[] vetor, int quant)
         {
             int[] pilha = new int[quant];
@@ -62,7 +73,7 @@ namespace Exercício_02
             aux = inverte(fila, quant);
             
             imprime(fila, quant);
-            imprime(aux, quant);
+            imprime2(aux, quant);
         }
     }
 }
