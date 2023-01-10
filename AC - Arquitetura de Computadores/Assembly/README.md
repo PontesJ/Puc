@@ -1,6 +1,6 @@
-# <a href="/Programas">Programas do Professor</a>
+# <a href="./Programas">Programas do Professor</a>
 
-## <a href="/Programas/Programa 01.asm">Programa 01 - Hello World!</a>
+## <a href="./Programas/Programa 01.asm">Programa 01 - Hello World!</a>
 
 Demonstra o uso de instruções simples e o uso do simulador MARS.
 
@@ -21,7 +21,7 @@ main:
 Greetings: .asciiz "Hello World"
 ```
 
-## <a href="/Programas/Programa 02.asm">Programa 02 - Instruções de Adição</a>
+## <a href="./Programas/Programa 02.asm">Programa 02 - Instruções de Adição</a>
 
 Exemplos de uso das instruções de adição.
 
@@ -44,7 +44,7 @@ main:
 	syscall
 ```
 
-## <a href="/Programas/Programa 03.asm">Programa 03 - Instruções de Subtração</a>
+## <a href="./Programas/Programa 03.asm">Programa 03 - Instruções de Subtração</a>
 
 Exemplos de uso das instruções de subtração.
 
@@ -65,7 +65,7 @@ main:
 	syscall
 ```
 
-## <a href="/Programas/Programa 04.asm">Programa 04 - Instruções de Multiplicação e Divisão</a>
+## <a href="./Programas/Programa 04.asm">Programa 04 - Instruções de Multiplicação e Divisão</a>
 
 Exemplos de uso das instruções de multiplicação e divisão.
 
@@ -93,7 +93,7 @@ main:
 	syscall
 ```
 
-## <a href="/Programas/Programa 05.asm">Programa 05 - Operações Lógicas, Deslocamento e Rotação</a>
+## <a href="./Programas/Programa 05.asm">Programa 05 - Operações Lógicas, Deslocamento e Rotação</a>
 
 Operações lógicas, deslocamento e rotação.
 
@@ -119,7 +119,7 @@ main:
 	syscall # Programa
 ```
 
-## <a href="/Programas/Programa 06.asm">Programa 06 - Demonstração Subrotina, Entrada e Saída de Inteiros</a>
+## <a href="./Programas/Programa 06.asm">Programa 06 - Demonstração Subrotina, Entrada e Saída de Inteiros</a>
 
 Demonstração subrotina, entrada e saída de inteiros.
 
