@@ -1,0 +1,16 @@
+D:\GitHub Desktop\Puc\POO - Programação Orientada por Objetos\Aula 02\TADLivro\obj\Debug\net5.0\TADLivro.csproj.AssemblyReference.cache
+D:\GitHub Desktop\Puc\POO - Programação Orientada por Objetos\Aula 02\TADLivro\obj\Debug\net5.0\TADLivro.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub Desktop\Puc\POO - Programação Orientada por Objetos\Aula 02\TADLivro\obj\Debug\net5.0\TADLivro.AssemblyInfoInputs.cache
+D:\GitHub Desktop\Puc\POO - Programação Orientada por Objetos\Aula 02\TADLivro\obj\Debug\net5.0\TADLivro.AssemblyInfo.cs
+D:\GitHub Desktop\Puc\POO - Programação Orientada por Objetos\Aula 02\TADLivro\obj\Debug\net5.0\TADLivro.csproj.CoreCompileInputs.cache
+D:\GitHub Desktop\Puc\POO - Programação Orientada por Objetos\Aula 02\TADLivro\bin\Debug\net5.0\TADLivro.exe
+D:\GitHub Desktop\Puc\POO - Programação Orientada por Objetos\Aula 02\TADLivro\bin\Debug\net5.0\TADLivro.deps.json
+D:\GitHub Desktop\Puc\POO - Programação Orientada por Objetos\Aula 02\TADLivro\bin\Debug\net5.0\TADLivro.runtimeconfig.json
+D:\GitHub Desktop\Puc\POO - Programação Orientada por Objetos\Aula 02\TADLivro\bin\Debug\net5.0\TADLivro.runtimeconfig.dev.json
+D:\GitHub Desktop\Puc\POO - Programação Orientada por Objetos\Aula 02\TADLivro\bin\Debug\net5.0\TADLivro.dll
+D:\GitHub Desktop\Puc\POO - Programação Orientada por Objetos\Aula 02\TADLivro\bin\Debug\net5.0\TADLivro.pdb
+D:\GitHub Desktop\Puc\POO - Programação Orientada por Objetos\Aula 02\TADLivro\obj\Debug\net5.0\TADLivro.dll
+D:\GitHub Desktop\Puc\POO - Programação Orientada por Objetos\Aula 02\TADLivro\obj\Debug\net5.0\refint\TADLivro.dll
+D:\GitHub Desktop\Puc\POO - Programação Orientada por Objetos\Aula 02\TADLivro\obj\Debug\net5.0\TADLivro.pdb
+D:\GitHub Desktop\Puc\POO - Programação Orientada por Objetos\Aula 02\TADLivro\obj\Debug\net5.0\TADLivro.genruntimeconfig.cache
+D:\GitHub Desktop\Puc\POO - Programação Orientada por Objetos\Aula 02\TADLivro\obj\Debug\net5.0\ref\TADLivro.dll
