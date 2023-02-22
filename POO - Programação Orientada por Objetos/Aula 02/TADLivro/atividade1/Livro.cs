@@ -47,12 +47,14 @@ public class Livro
     }
     public Boolean barroco(Livro livro)
     {
-        if(livro.getGenero() == "Barroco") return true;
+        int ano = livro.getAno();
+        if(ano >= 1601 && ano <= 1768) return true;
         return false;
     }
     public Boolean modernismo(Livro livro)
     {
-        if(livro.getGenero() == "Modernismo") return true;
+        int ano = livro.getAno();
+        if(ano >= 1930 && ano <= 1945) return true;
         return false;
     }
     public void ordenar(Livro[] vetor)
