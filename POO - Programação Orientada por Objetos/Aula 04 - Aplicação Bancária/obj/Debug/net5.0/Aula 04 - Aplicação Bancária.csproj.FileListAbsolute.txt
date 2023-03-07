@@ -1,0 +1,16 @@
+D:\GitHub Desktop\Puc\POO - Programação Orientada por Objetos\Aula 04 - Aplicação Bancária\bin\Debug\net5.0\Aula 04 - Aplicação Bancária.exe
+D:\GitHub Desktop\Puc\POO - Programação Orientada por Objetos\Aula 04 - Aplicação Bancária\bin\Debug\net5.0\Aula 04 - Aplicação Bancária.deps.json
+D:\GitHub Desktop\Puc\POO - Programação Orientada por Objetos\Aula 04 - Aplicação Bancária\bin\Debug\net5.0\Aula 04 - Aplicação Bancária.runtimeconfig.json
+D:\GitHub Desktop\Puc\POO - Programação Orientada por Objetos\Aula 04 - Aplicação Bancária\bin\Debug\net5.0\Aula 04 - Aplicação Bancária.runtimeconfig.dev.json
+D:\GitHub Desktop\Puc\POO - Programação Orientada por Objetos\Aula 04 - Aplicação Bancária\bin\Debug\net5.0\Aula 04 - Aplicação Bancária.dll
+D:\GitHub Desktop\Puc\POO - Programação Orientada por Objetos\Aula 04 - Aplicação Bancária\bin\Debug\net5.0\Aula 04 - Aplicação Bancária.pdb
+D:\GitHub Desktop\Puc\POO - Programação Orientada por Objetos\Aula 04 - Aplicação Bancária\obj\Debug\net5.0\Aula 04 - Aplicação Bancária.csproj.AssemblyReference.cache
+D:\GitHub Desktop\Puc\POO - Programação Orientada por Objetos\Aula 04 - Aplicação Bancária\obj\Debug\net5.0\Aula 04 - Aplicação Bancária.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub Desktop\Puc\POO - Programação Orientada por Objetos\Aula 04 - Aplicação Bancária\obj\Debug\net5.0\Aula 04 - Aplicação Bancária.AssemblyInfoInputs.cache
+D:\GitHub Desktop\Puc\POO - Programação Orientada por Objetos\Aula 04 - Aplicação Bancária\obj\Debug\net5.0\Aula 04 - Aplicação Bancária.AssemblyInfo.cs
+D:\GitHub Desktop\Puc\POO - Programação Orientada por Objetos\Aula 04 - Aplicação Bancária\obj\Debug\net5.0\Aula 04 - Aplicação Bancária.csproj.CoreCompileInputs.cache
+D:\GitHub Desktop\Puc\POO - Programação Orientada por Objetos\Aula 04 - Aplicação Bancária\obj\Debug\net5.0\Aula 04 - Aplicação Bancária.dll
+D:\GitHub Desktop\Puc\POO - Programação Orientada por Objetos\Aula 04 - Aplicação Bancária\obj\Debug\net5.0\refint\Aula 04 - Aplicação Bancária.dll
+D:\GitHub Desktop\Puc\POO - Programação Orientada por Objetos\Aula 04 - Aplicação Bancária\obj\Debug\net5.0\Aula 04 - Aplicação Bancária.pdb
+D:\GitHub Desktop\Puc\POO - Programação Orientada por Objetos\Aula 04 - Aplicação Bancária\obj\Debug\net5.0\Aula 04 - Aplicação Bancária.genruntimeconfig.cache
+D:\GitHub Desktop\Puc\POO - Programação Orientada por Objetos\Aula 04 - Aplicação Bancária\obj\Debug\net5.0\ref\Aula 04 - Aplicação Bancária.dll
