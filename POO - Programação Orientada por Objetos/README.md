@@ -136,6 +136,7 @@ public static void Questao1 (string[] args){
 
 **Resposta da questão teórica:** O polimorfismo foi utilizado no método "calcImposto()". O tipo de polimorfismo utilizado foi Universal Inclusão, já que, a superclasse "Contribuinte" possui o método "calcImposto()" com o modificador abstract e as subclasses "PFisca" e "PJuridica" possuem o mesmo método, porém com o modificador override.
 
+<hr>
 
 2\) Faça um cópia do esquema de classes anterior, adaptando namespace e classes para Questao2. Crie um nível de especialização das classes acima, sendo uma chamada Autonomo (AUT) outra MicroEmpIndividual (MEI). Da classe PessoaJuridica, crie as classes filhas, FirmaIndividual (FI), MicroEmpresa (ME) , EmpresaPequenoPorte (EPP).
 
