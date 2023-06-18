@@ -1,4 +1,4 @@
-# Exercício de Modelagem
+# Exercícios
 
 ## Exercício 01
 
@@ -16,3 +16,133 @@ c) Duas funções para verificar a Estilo literário, sendo que estás deverão 
 Modernismo de 1930 a 1945 e Barroco de 1601 a 1768.
 
 Deverá ser escrito o TAD com todos os elementos, seguindo o modelo visto em aula, seguindo boas práticas de nomenclatura e padrão CamelCase.
+
+**<a href="./Aula 02 - TADLivro">Resolução</a>**
+
+---
+
+## Exercício 02
+
+1\) De acordo com seus conhecimentos sobre aplicações bancárias (ou de seus consultores) em nossa aplicação bancária, onde pode ser utilizado o relacionamento de Agregação por composição? Justifique:
+
+2\) Modele este relacionamento de acordo com os modelos vistos em sala de aula: (dica de ferramenta ArgoUML, baixe e instale e use sem moderação é free).
+
+3\) Implemente este relacionamento e proponha um caso de teste em C#. 
+
+**<a href="./Aula 04 - Aplicação Bancária">Resolução</a>**
+
+---
+
+## Exercício 03
+
+1\) O objetivo deste exercício é utilizar os conceitos de herança e polimorfismo para calcular o Imposto de Renda de uma coleção de contribuintes, que podem ser pessoas físicas ou pessoas jurídicas. O cálculo do IR deve ser feito da seguinte maneira:
+
+Pessoa Jurídica: O imposto deve corresponder a 10% da renda bruta da empresa.
+
+Pessoa Física: O imposto deve ser calculado de acordo com a tabela:
+
+| Renda Bruta | Alíquota | Parcela a Deduzir |
+|-------------|----------|-------------------|
+| R\$ 0,00 a R$ 1.400,00 | 0% | R$ 0,00 |
+| R\$ 1.400,01 a R$ 2.100,00 | 10% | R$ 100,00 |
+| R\$ 2.100,01 a R$ 2.800,00 | 15% | R$ 270,00 |
+| R\$ 2.800,01 a R$ 3.600,00 | 25% | R$ 500,00 |
+| R\$ 3.600,01 ou mais | 30% | R$ 700,00 |
+
+As classes a seguir devem ser usadas conjuntamente com este enunciado. Elas contêm parte do código necessário à implementação deste exercício. Você terá que completá- las nos pontos indicados, de acordo com os objetivos do exercício. Crie um pacote que contenha as classes, além de um pacote de teste com uma classe Questao1, que por sua vez terá um método estático para acionar os devidos testes.
+
+**Exemplo da Classe PFisica:**
+
+```
+public class PFisica : Contribuinte {
+    protected String cpf;
+
+    public Pfisica(String n,double r,String c) {
+        // inicialização das varáveis de instância
+    }
+    public double calcImposto() {
+        // Cálculo do imposto
+    }
+}
+```
+
+**Exemplo da Classe PJuridica:**
+
+```
+public class PJuridica : Contribuinte {
+    protected String cnpj;
+
+    public Pjuridica(String n,double r,String c) {
+        //inicialização das varáveis de instância
+    }
+    public double calcImposto(){
+        //Cálculo do imposto
+    }
+}
+```
+
+**Exemplo da Classe Contribuinte:**
+
+```
+public abstract class Contribuinte {
+    protected String nome;
+    protected double rendaBrt;
+
+    public static Contribuinte [] listaContr(){
+
+        Contribuinte []lst=new Contribuinte[6];
+
+        lst[0]=new PFisica("Joao Santos",3000.00,"11111");
+        lst[1]=new PJuridica("Lojas AA",150000.00,"10055");
+        lst[2]=new PFisica("Maria Soares",5000.00,"22222");
+        lst[3]=new PJuridica("Supermercados B",2000000.00,"10066");
+        lst[4]=new PFisica("Carla Maia",1500.00,"33333");
+        lst[5]=new PJuridica("Posto XX",500000.00,"10077");
+        return lst;
+    }
+
+    public String getNome(){
+        return nome;
+    }
+    abstract public double calcImposto();
+}
+```
+
+**Exemplo do Método estático de testes:**
+
+```
+public static void Questao1 (string[] args){
+    Contribuinte []lst;
+
+    // obtenha a lista de contribuintes
+    lst= ;
+
+    Console.WriteLine("NOME IMPOSTO\n");
+    Console.WriteLine("==================== =======\n\n");
+
+    // coloque aqui o comando for
+    {
+        // Console.WriteLine a seguir deve exibir o nome e o
+        // imposto que o contribuinte irá pagar
+
+        Console.WriteLine(" ");
+    }
+}
+```
+
+**Questão teórica:** Identifique onde foi utilizado o Polimorfismo no exercício e classifique de acordo com os tipos: Universal (Paramétrico ou Inclusão) e Ad Hoc (Coerção ou Sobrecarga), Justifique.
+
+**<a href="./Aula%2008%20-%20Polimorfismo%2C%20Classes%20abstratas/exercicio01">Resolução</a>**
+
+**Resposta da questão teórica:** O polimorfismo foi utilizado no método "calcImposto()". O tipo de polimorfismo utilizado foi Universal Inclusão, já que, a superclasse "Contribuinte" possui o método "calcImposto()" com o modificador abstract e as subclasses "PFisca" e "PJuridica" possuem o mesmo método, porém com o modificador override.
+
+
+2\) Faça um cópia do esquema de classes anterior, adaptando namespace e classes para Questao2. Crie um nível de especialização das classes acima, sendo uma chamada Autonomo (AUT) outra MicroEmpIndividual (MEI). Da classe PessoaJuridica, crie as classes filhas, FirmaIndividual (FI), MicroEmpresa (ME) , EmpresaPequenoPorte (EPP).
+
+a\) Crie método abstratos mostrarSigla nas classes PessoaFisica e PessoaJuridica e reescreva todos eles nas classes filhas, de maneira que cada objeto possa mostrar a Sigla da sua natureza de estabelecimento.
+
+b\) É necessário saber qual a empresa destaque de cada um dos seguimentos. Para isso na classe de testes estática, crie um vetor ou uma lista que seja capaz de adicionar um elemento apenas de cada uma das subclasses (tipos de estabelecimentos). Deverá ser testada está condição, caso um subtipo que já se encontre no listaDestaque, já tenha sido adicionada, deverá retornar uma mensagem informado que o tipo de estabelecimento já foi adicionado.
+
+c\) Crie um método que seja capaz de ordenar a lista pelo valor do valor retornado pela função de calculo do imposto.
+
+**<a href="./Aula%2008%20-%20Polimorfismo%2C%20Classes%20abstratas/exercicio02">Resolução</a>**
