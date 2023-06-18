@@ -147,3 +147,18 @@ b\) É necessário saber qual a empresa destaque de cada um dos seguimentos. Par
 c\) Crie um método que seja capaz de ordenar a lista pelo valor do valor retornado pela função de calculo do imposto.
 
 **<a href="./Aula%2008%20-%20Polimorfismo%2C%20Classes%20abstratas/exercicio02">Resolução</a>**
+
+---
+
+## Exercício 04
+
+Desenvolva uma aplicação em modo GUI (Windows Form) para um sistema de Figuras Geométricas, utilizando os conceitos de herança, classes abstratas e classes seladas, se julgar necessário pode ser utilizado interface, crie pacotes de forma padronizada, encapsulamento e níveis de proteção necessários.
+
+A aplicação deverá conter:
+
+a\) Uma classe base chamada Forma como uma classe Abstrata e uma classe Derivada com para cada forma especifica: Quadrado, Octágono, Pentágono, Retângulo, Triangulo, Circulo e Hexágono.<br>
+b\) Implemente um métodos Abstratos na classe Base que deverão ser implementados de acordo com sua forma para CalcularArea, CalcularPerimetro()<br>
+c\) Crie também um método virtual mostrar que deverá ser sobrescrito e por sua vez ser rescrito em todas as classes derivadas mostrando uma figura geométrica que apresente além dos resultados obtidos pelas classes da letra b, a imagem da figura.<br>
+d\) Crie um Windows Form criativo e intuitivo para apresentar os resultados.
+
+**<a href="./Aula%2009%20-%20Classes%20e%20M%C3%A9todos%20Selados/FormasGeometricas">Resolução</a>**
