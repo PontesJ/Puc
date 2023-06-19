@@ -188,7 +188,7 @@ e\) É recomendável que sejam criados métodos de validação e tratamento de E
 
 Você foi contratado para fazer parte de uma equipe de desenvolvimento de um projeto de Simulador de Patos para um Jogo. Na ocasião, você precisa desenvolver um projeto conforme o Diagrama de Classes abaixo:
 
-<img src="https://i.imgur.com/F17zcxZ.png" widght="25">
+<img src="https://i.imgur.com/F17zcxZ.png" height="250">
 
 Todos os requisitos informados, foram perfeitamente satisfeitos até que:
 
@@ -196,7 +196,7 @@ Surgiram novos requisitos em tempo de implementação de projeto onde surgiram v
 
 Passo 1\) Separar tudo o que é comportamento e que varia e colocar em interfaces, deixe apenas o que não varia na classe base.
 
-<img src="https://i.imgur.com/BRWRUqj.png" widght="25">
+<img src="https://i.imgur.com/BRWRUqj.png" height="250">
 
 Passo 2\) Implemente as interfaces:
 
