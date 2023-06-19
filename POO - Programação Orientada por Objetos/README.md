@@ -188,7 +188,7 @@ e\) É recomendável que sejam criados métodos de validação e tratamento de E
 
 Você foi contratado para fazer parte de uma equipe de desenvolvimento de um projeto de Simulador de Patos para um Jogo. Na ocasião, você precisa desenvolver um projeto conforme o Diagrama de Classes abaixo:
 
-<img src="https://i.imgur.com/F17zcxZ.png" widght="50">
+<img src="https://i.imgur.com/F17zcxZ.png" widght="25">
 
 Todos os requisitos informados, foram perfeitamente satisfeitos até que:
 
@@ -196,7 +196,7 @@ Surgiram novos requisitos em tempo de implementação de projeto onde surgiram v
 
 Passo 1\) Separar tudo o que é comportamento e que varia e colocar em interfaces, deixe apenas o que não varia na classe base.
 
-<img src="https://i.imgur.com/BRWRUqj.png" widght="50">
+<img src="https://i.imgur.com/BRWRUqj.png" widght="25">
 
 Passo 2\) Implemente as interfaces:
 
@@ -233,3 +233,23 @@ Passo 4\) Modifique seu programa Simulador de Patos retirando todos os comportam
 Continue utilizando herança da Classe Duck para o que repete (ex: display) e faça a escrita dos métodos assinados nas interfaces
 
 **<a href="./Aula%2011%20-%20Uso%20de%20Interfaces/Atividade6">Resolução</a>**
+
+---
+
+## Exercício 07
+
+1\) Faça um programa que lê um valor inteiro e calcule se ele é um número primo, faça a sua validação através do tratamento de uma exceção. Caso não seja inteiro continuar pedindo a introdução do valor inteiro.
+
+2\) Faça um programa que simule uma calculadora básica com as operações de soma, multiplicação, subtração, divisão e módulo (resto da divisão). Seu programa deve receber do usuário dois números e executar a operação selecionada pelo usuário. Faça a validação do funcionamento do seu programa usando tratamento de exceção.
+
+3\) Escreva um programa para preencher valores de um vetor de inteiros com 10 posições. O usuário irá informar os valores a serem inseridos e suas respectivas posições no array. O programa deve tratar as exceções IndexOutOfRangeException quando for informada uma posição inexistente do vetor e FormatException quando o valor informado não for numero.
+
+4\) Crie um programa que receba n números e some esses números enquanto a soma não for superior a 100. O programa deverá imprimir o valor somado (antes de atingir o número maior que 100) e deverá informar quantos números foram somados e qual a média. Refaça seu programa utilizando as seguintes regras:
+
+a\) Utilize os tratamentos de exceção para lidar com a entrada de dados.
+
+b\) Quando a soma for superior a 100, o programa deverá gerar uma exceção criada pelo programador com nome ExcecaoAcimaDeCem.
+
+c\) Lance essa exceção, com o uso de throws.
+
+**<a href="./Aula%2012%20-%20Tratamento%20de%20Exce%C3%A7%C3%B5es/Atividade7">Resolução</a>**
