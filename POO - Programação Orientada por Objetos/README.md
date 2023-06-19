@@ -179,3 +179,57 @@ d\) Cria uma interface com algum componente que seja capaz de receber os dados l
 e\) É recomendável que sejam criados métodos de validação e tratamento de Exceção.
 
 **<a href="./Aula%2010%20-%20Revis%C3%A3o%20GUI%20%2B%20Padr%C3%B5es%20e%20Tecnologias/Cadastro">Resolução</a>**
+
+---
+
+## Exercício 06
+
+### Atividade: Simulador de Patos
+
+Você foi contratado para fazer parte de uma equipe de desenvolvimento de um projeto de Simulador de Patos para um Jogo. Na ocasião, você precisa desenvolver um projeto conforme o Diagrama de Classes abaixo:
+
+<img src="https://i.imgur.com/F17zcxZ.png" widght="50">
+
+Todos os requisitos informados, foram perfeitamente satisfeitos até que:
+
+Surgiram novos requisitos em tempo de implementação de projeto onde surgiram vários tipos de patos que não podem voar, como patos de madeira, ferro. Além disso alguns patos não poderiam grasnar. Podemos dizer que apenas a utilização de herança não é capaz de resolver o problema. A interface é uma excelente estratégia para resolver este problema.
+
+Passo 1\) Separar tudo o que é comportamento e que varia e colocar em interfaces, deixe apenas o que não varia na classe base.
+
+<img src="https://i.imgur.com/BRWRUqj.png" widght="50">
+
+Passo 2\) Implemente as interfaces:
+
+```
+public interface IFlyable {
+    void fly( );
+}
+```
+
+```
+public interface IQuackable {
+    quack( );
+}
+```
+
+Passo 3\) Implementando os comportamentos nas classes derivadas:
+
+```
+public class ReadHeadDuck : Duck, IFlyable, IQuackable {
+
+    //métodos herdados de Duck
+
+    public void fly() {
+        Console.Write(“voar...”)
+    }
+
+    public void quack() {
+        Console.Write(“quaaaa!!!!...”)
+    }
+}
+```
+
+Passo 4\) Modifique seu programa Simulador de Patos retirando todos os comportamentos que variam da classe Duck e os colocando em interfaces.<br>
+Continue utilizando herança da Classe Duck para o que repete (ex: display) e faça a escrita dos métodos assinados nas interfaces
+
+**<a href="./Aula%2011%20-%20Uso%20de%20Interfaces/Atividade6">Resolução</a>**
