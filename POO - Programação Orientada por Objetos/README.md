@@ -162,3 +162,20 @@ c\) Crie também um método virtual mostrar que deverá ser sobrescrito e por su
 d\) Crie um Windows Form criativo e intuitivo para apresentar os resultados.
 
 **<a href="./Aula%2009%20-%20Classes%20e%20M%C3%A9todos%20Selados/FormasGeometricas">Resolução</a>**
+
+---
+
+## Exercício 05
+
+Desenvolva uma aplicação com Windows Form que possua os seguintes requisitos:<br>
+a\) Criar um cadastro de clientes com informações de nome e e-mail que deverão ser lidos no formulário.
+
+b\) A aplicação deverá ler dois campos de entrada de dados e na ação de um botão de cadastro, salvar os dados em arquivo XML.
+
+c\) A arquitetura do projeto deverá conter uma classe Cliente com as informações a serem salvas. E uma outra classe chamada ClientesDAO que deverá conter os operações de I/O no arquivo XML.
+
+d\) Cria uma interface com algum componente que seja capaz de receber os dados lidos do arquivo XML e listá-los quando o formulário for carregado.
+
+e\) É recomendável que sejam criados métodos de validação e tratamento de Exceção.
+
+**<a href="./Aula%2010%20-%20Revis%C3%A3o%20GUI%20%2B%20Padr%C3%B5es%20e%20Tecnologias/Cadastro">Resolução</a>**
