@@ -1,5 +1,5 @@
-import 'dart:convert';
 import 'package:flutter/material.dart';
+import 'dart:convert';
 import 'package:http/http.dart' as http;
 
 void main() {
@@ -7,89 +7,122 @@ void main() {
 }
 
 class MyApp extends StatelessWidget {
-  const MyApp({Key? key}) : super(key: key);
+  const MyApp({super.key});
 
   @override
   Widget build(BuildContext context) {
-    return MaterialApp(
+    return const MaterialApp(
       debugShowCheckedModeBanner: false,
-      home: ImageLoader(),
+      home: ImageGenerator(),
     );
   }
 }
 
-class ImageLoader extends StatefulWidget {
+class ImageGenerator extends StatefulWidget {
+  const ImageGenerator({super.key});
+
   @override
-  _ImageLoaderState createState() => _ImageLoaderState();
+  _ImageGeneratorState createState() => _ImageGeneratorState();
 }
 
-class _ImageLoaderState extends State<ImageLoader> {
-  String? imageUrl;
+class _ImageGeneratorState extends State<ImageGenerator> {
+  String? _imageUrl;
 
-  Future<void> fetchRandomImage() async {
-    final url = Uri.parse('https://db.ygoprodeck.com/api/v7/cardinfo.php?num=1&offset=0&sort=random&cachebust');
+  Future<void> _fetchImage() async {
+    const url =
+        "https://db.ygoprodeck.com/api/v7/cardinfo.php?num=1&offset=0&sort=random&cachebust";
     try {
-      final response = await http.get(url, headers: {'Accept': 'application/json'});
+      final response = await http.get(Uri.parse(url));
       if (response.statusCode == 200) {
-        final data = jsonDecode(response.body);
+        final data = json.decode(response.body);
+        final imageUrl = data['data'][0]['card_images'][0]['image_url'];
 
-        // Verificar o conteúdo retornado
-        print('API Response: $data');
+        // Adicionando proxy CORS
+        final proxiedUrl = "https://corsproxy.io/?$imageUrl";
 
-        // Garantir que os dados da imagem sejam válidos
-        if (data['data'] != null &&
-            data['data'][0]['card_images'] != null &&
-            data['data'][0]['card_images'][0]['image_url'] != null) {
-          setState(() {
-            imageUrl = data['data'][0]['card_images'][0]['image_url'];
-          });
-        } else {
-          throw Exception('Invalid image data');
-        }
+        setState(() {
+          _imageUrl = proxiedUrl;
+        });
       } else {
-        throw Exception('Failed to load image');
+        _showError("Erro ao buscar imagem: Código ${response.statusCode}");
       }
     } catch (e) {
-      setState(() {
-        imageUrl = null;
-      });
-      ScaffoldMessenger.of(context).showSnackBar(
-        SnackBar(content: Text('Error loading image: $e')),
-      );
+      _showError("Erro ao buscar imagem: $e");
     }
+  }
+
+  void _showError(String message) {
+    ScaffoldMessenger.of(context).showSnackBar(
+      SnackBar(
+        content: Text(message),
+        backgroundColor: Colors.red,
+      ),
+    );
   }
 
   @override
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Random Card Loader'),
-        centerTitle: true,
+        title: const Text('Gerador de Cartas de Yu-Gi-Oh!', style: TextStyle(color: Colors.white)),
         backgroundColor: Colors.blue,
+        
       ),
-      body: Center(
-        child: Column(
-          mainAxisAlignment: MainAxisAlignment.center,
-          children: [
-            imageUrl != null
-                ? Image.network(
-                    imageUrl!,
-                    errorBuilder: (context, error, stackTrace) {
-                      return const Text('Failed to load image. Check your connection.');
-                    },
-                  )
-                : const Text('Press the button to load an image'),
-            const SizedBox(height: 20),
-            ElevatedButton(
-              onPressed: fetchRandomImage,
-              style: ElevatedButton.styleFrom(
-                foregroundColor: Colors.white,
-                backgroundColor: Colors.blue,
-              ),
-              child: const Text('Load Random Card'),
+      body: Column(
+        mainAxisAlignment: MainAxisAlignment.center,
+        children: [
+          Expanded(
+            child: Center(
+              child: _imageUrl == null
+                  ? const Text(
+                      "Imagem aparecerá aqui",
+                      style: TextStyle(fontSize: 18, color: Colors.grey),
+                    )
+                  : Padding(
+                      padding: const EdgeInsets.all(
+                          64.0), // Margem ao redor da imagem
+                      child: Image.network(
+                        _imageUrl!,
+                        loadingBuilder: (context, child, loadingProgress) {
+                          if (loadingProgress == null) return child;
+                          return Center(
+                            child: CircularProgressIndicator(
+                              value: loadingProgress.expectedTotalBytes != null
+                                  ? loadingProgress.cumulativeBytesLoaded /
+                                      loadingProgress.expectedTotalBytes!
+                                  : null,
+                            ),
+                          );
+                        },
+                        errorBuilder: (context, error, stackTrace) {
+                          return const Text(
+                            "Erro ao carregar imagem",
+                            style: TextStyle(color: Colors.red),
+                          );
+                        },
+                      ),
+                    ),
             ),
-          ],
-        ),
+          ),
+          Padding(
+            padding: const EdgeInsets.all(16.0),
+            child: SizedBox(
+              width: double.infinity,
+              child: ElevatedButton(
+                onPressed: _fetchImage,
+                style: ElevatedButton.styleFrom(
+                  foregroundColor: Colors.white,
+                  backgroundColor: Colors.blue,
+                  padding: const EdgeInsets.symmetric(vertical: 16.0),
+                  shape: const RoundedRectangleBorder(
+                    borderRadius: BorderRadius.zero,
+                  )
+                ),
+                child: const Text("Gerar"),
+              ),
+            ),
+          ),
+        ],
       ),
     );
   }
